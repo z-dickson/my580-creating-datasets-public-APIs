@@ -47,7 +47,7 @@ Specifically, by the end of this workshop, students will be able to:
 - A conceptual understanding of social science research methodologies.
 
 
-
+**Github Repository:**^[All content be made available prior to the workshop] [https://github.com/z-dickson/my580-creating-datasets-public-APIs](https://github.com/z-dickson/my580-creating-datasets-public-APIs)
 
 
 
