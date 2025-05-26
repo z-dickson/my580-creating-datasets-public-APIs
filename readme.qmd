@@ -1,0 +1,40 @@
+---
+title: "Data Collection for Social Scientists: Leveraging Public APIs with Python"
+author: 
+  - name: "Zach Dickson"
+    affiliation: "Department of Methodology<br>London School of Economics"
+biblio-style: apalike
+natbiboptions: round
+format:
+  pdf:
+    cite-method: natbib
+    number-sections: false
+    colorlinks: true
+    keep-tex: true
+    geometry:
+      - top=30mm
+      - left=20mm
+      - heightrounded
+    include-in-header:
+      text: |
+       \addtokomafont{disposition}{\rmfamily}
+header-includes:
+- \usepackage{caption}
+- \usepackage{hyperref}
+- \usepackage[ocgcolorlinks]{ocgx2}
+- \usepackage{xcolor}
+- \hypersetup{colorlinks,linkcolor={blue},citecolor={purple}, colorlinks=true, citecolor={blue}, urlcolor={blue}}
+---
+
+
+
+
+**Target Audience:** Advanced MSc and PhD students in Social Sciences.
+
+**Prerequisites:**
+
+- Basic to intermediate proficiency in Python (understanding data types, lists, dictionaries, loops, functions) (see below for resources).
+- Familiarity with the Jupyter Notebook or a similar Python IDE (see below for resources).
+- A conceptual understanding of social science research methodologies.
+
+**Workshop Goal:** Equip students with the skills to programmatically access data from public REST APIs, transform this data into analysis-ready datasets, and critically consider dataset design for social science research.
