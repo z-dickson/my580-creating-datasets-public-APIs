@@ -10,7 +10,7 @@ format:
     cite-method: natbib
     number-sections: false
     colorlinks: true
-    keep-tex: true
+    keep-tex: false
     geometry:
       - top=30mm
       - left=20mm
@@ -25,8 +25,6 @@ header-includes:
 - \usepackage{xcolor}
 - \hypersetup{colorlinks,linkcolor={blue},citecolor={purple}, colorlinks=true, citecolor={blue}, urlcolor={blue}}
 ---
-
-
 
 
 **Target Audience:** Advanced MSc and PhD students in Social Sciences.
