@@ -1,0 +1,22 @@
+---
+title: "Data Collection for Social Scientists: Leveraging Public APIs with Python"
+subtitle: MY580 - 2025
+author: Zach Dickson 
+institute: London School of Economics
+bibliography: references.bib
+format:
+  revealjs: 
+    fontsize: 1.5em
+    logo: figures/LSE_logo.png
+    embed-resources: true
+    slide-number: true
+    preview-links: auto
+    transition: fade
+    citation_package: biblatex
+    transition-speed: fast
+    theme: [simple, custom.scss]
+---
+
+
+
+# Introduction 
