@@ -1,7 +1,8 @@
 ---
 title: "Data Collection for Social Scientists: Leveraging Public APIs with Python"
-subtitle: MY580 - 2025
-author: Zach Dickson 
+subtitle: ''
+author: Zach Dickson, PhD
+date: "May 2025"
 institute: London School of Economics
 bibliography: references.bib
 format:
@@ -15,8 +16,226 @@ format:
     citation_package: biblatex
     transition-speed: fast
     theme: [simple, custom.scss]
+    footer: '<a>*APIs for Data Collection*</a>'
+    pdf-max-pages-per-slide: 1
+    pdf-engine: xelatex
+title-slide-attributes: 
+  data-background-size: 15%
+  data-background-position: 2% 2%
+  beamer:
+    theme: Marburg
+    slide-level: 2
+    logo: figures/LSE_logo.png
 ---
 
 
 
+
+
 # Introduction 
+
+::: {.incremental}
+
+- My background 
+- Introductions 
+  - Who are you?
+  - What is your background?
+  - What are you hoping to learn in this module?
+  - What is your experience with Python?
+- Why this module?
+- Pre-requisites
+- Questions?
+:::
+
+
+
+
+
+
+
+
+# Overview of the Workshop 
+
+
+UPDATE: 
+
+- What is an API?
+- Why use APIs for data collection?
+- How to use Python's requests library to interact with APIs
+- Fetching data from the UK House of Commons API
+- Cleaning and transforming data for analysis
+- Evaluating dataset design for social science research
+
+
+
+
+
+
+
+
+
+# Learning Objectives
+- Understand the fundamentals of APIs and how they can be used to access data
+- Use Python's requests library to interact with REST APIs
+- Fetch, clean, and transform data from the UK House of Commons API
+- Apply data cleaning techniques to prepare datasets for analysis
+- Critically evaluate the design of datasets for social science research
+
+
+
+
+
+
+# Module 1: Introduction to APIs (15 minutes)
+
+
+# What is an API?
+
+
+::: {.incremental}
+
+- **API** stands for Application Programming Interface
+- APIs allow different software applications to communicate with each other
+- They provide a set of rules and protocols for building and interacting with software applications
+- APIs are used to access web services, databases, and other resources
+- They can be public (open to everyone) or private (restricted access)
+- They can be used to retrieve data, send data, or perform actions on a remote server
+:::
+
+
+
+
+# Why Use APIs for Data Collection?
+::: {.incremental}
+
+- **Data Access**: APIs provide a structured way to access data from various sources, such as social media platforms, government databases, and more.
+- **Automation**: APIs allow for automated data retrieval and processing, reducing manual effort and errors.
+- **Integration**: APIs enable integration between different software systems, allowing them to work together seamlessly.
+- **Scalability**: APIs can handle large volumes of requests and data, making them suitable for applications that require scalability.
+- **Flexibility**: APIs can be used to access a wide range of data and services, providing flexibility in how data is collected and used.
+- **Reproducibility**: Using APIs allows researchers to access the most up-to-date data, ensuring that analyses are based on current information
+:::
+
+
+
+
+
+
+# Types of APIs
+
+::: {.incremental}
+- **REST APIs** (Representational State Transfer)
+  - Use standard HTTP methods (GET, POST, PUT, DELETE)
+  - Data is typically returned in JSON or XML format
+- **SOAP APIs** (Simple Object Access Protocol)
+  - Use XML for message format and rely on other application layer protocols like HTTP or SMTP
+  - More complex and less commonly used than REST APIs
+- **GraphQL APIs**
+  - Allow clients to request specific data structures, reducing over-fetching and under-fetching of data
+- **Webhooks**
+  - Allow servers to send real-time data updates to clients
+  - Useful for applications that require immediate data updates
+- **Streaming APIs**
+  - Provide a continuous stream of data, often used for real-time applications like social media feeds or financial market data
+:::
+
+
+
+
+
+
+
+# REST APIs 
+
+::: {.incremental}
+- **REST** APIs are the most common type of API used in web development
+- They use standard HTTP methods to perform operations on resources
+- Resources are identified by URLs (Uniform Resource Locators)
+- Data is typically returned in JSON (JavaScript Object Notation) format, which is easy to read and parse
+- REST APIs are stateless, meaning each request from a client contains all the information needed to process the request
+- They are designed to be simple, scalable, and flexible
+- REST APIs can be used to perform CRUD operations (Create, Read, Update, Delete) on resources
+- They can also support additional operations like searching, filtering, and sorting data
+:::
+
+
+
+
+
+# REST API Example
+
+
+
+```python
+import requests
+# Define the API endpoint
+url = "https://api.example.com/data"
+# Send a GET request to the API
+response = requests.get(url)
+# Check if the request was successful
+if response.status_code == 200:
+    # Parse the JSON data
+    data = response.json()
+    print(data)
+else:
+    print(f"Error: {response.status_code}")
+```
+
+
+# REST API Output 
+```json
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Example Item 1",
+            "value": 100
+        },
+        {
+            "id": 2,
+            "name": "Example Item 2",
+            "value": 200
+        }
+    ],
+    "status": "success"
+}
+```
+
+
+
+# Module 2: Understanding REST APIs & Python's requests
+
+
+
+# Key Concepts of REST APIs
+::: {.incremental}
+- **Resources**: The data or services provided by the API, identified by URLs
+- **HTTP Methods**: Standard methods used to interact with resources
+  - **GET**: Retrieve data from the server
+  - **POST**: Send data to the server to create a new resource
+  - **PUT**: Update an existing resource on the server
+  - **DELETE**: Remove a resource from the server
+- **Status Codes**: Indicate the result of the API request
+  - **200**: OK (successful request)
+  - **201**: Created (resource successfully created)
+  - **204**: No Content (successful request with no content returned)
+  - **400**: Bad Request (invalid request)
+  - **404**: Not Found (resource not found)
+  - **500**: Internal Server Error (server error)
+:::
+
+
+# Request Parameters
+::: {.incremental}
+- **Query Parameters**: Used to filter or modify the data returned by the API
+  - Added to the URL after a `?` and separated by `&`
+  - Example: `https://api.example.com/data?filter=value&sort=asc`
+- **Path Parameters**: Used to specify a specific resource in the URL
+  - Example: `https://api.example.com/data/123` (where `123` is the ID of the resource)
+- **Headers**: Additional information sent with the request, such as authentication tokens or content type
+  - Example: `headers = {'Authorization': 'Bearer YOUR_API_KEY'}`
+- **Body**: Data sent with POST or PUT requests, typically in JSON format
+  - Example: `data = {'name': 'Example Item', 'value': 100}`
+:::
+
+
