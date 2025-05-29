@@ -2,6 +2,41 @@
 
 
 
+/*-- scss:rules --*/
+
+/* Style for inline code */
+code {
+  background-color: #f5f5f5;
+  color: #c7254e;
+  padding: 0.15em 0.4em;
+  border-radius: 4px;
+  font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+  font-size: 0.95em;
+}
+
+.reveal code {
+  background-color: #f5f5f5;
+  color: #c7254e;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+  font-size: 0.95em;
+}
+
+h1.title {
+  font-size: 40px;
+  border: 1;
+}
+h2.title {
+  font-size: 28px;
+}
+h3.title {
+  font-size: 20px;
+}
+h4.title {
+  font-size: 15px;
+}
+
 
 
 /*-- scss:defaults --*/
@@ -17,19 +52,7 @@ $font-family-monospace: "Courier New", Courier, monospace !default;
 // colors
 $body-bg: #ffffff !default;
 $body-color: #000 !default;
-h1.title {
-  font-size: 40px;
-  border: 1;
-}
-h2.title {
-  font-size: 30px;
-}
-h3.title {
-  font-size: 20px;
-}
-h4.title {
-  font-size: 15px;
-}
+
 
 footer {
   background-color: white; 
@@ -133,7 +156,6 @@ div.cell-output cell-output-stdout {
   // p, a {
   //   color: #7F7F7F;
   // }
-
 
 
 

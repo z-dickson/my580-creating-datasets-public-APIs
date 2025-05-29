@@ -15,17 +15,14 @@ format:
     transition: fade
     citation_package: biblatex
     transition-speed: fast
-    theme: [simple, custom.scss]
+    theme: [night, custom.scss]
+    highlight-style: github-light
     footer: '<a>*APIs for Data Collection*</a>'
     pdf-max-pages-per-slide: 1
     pdf-engine: xelatex
 title-slide-attributes: 
   data-background-size: 15%
   data-background-position: 2% 2%
-  beamer:
-    theme: Marburg
-    slide-level: 2
-    logo: figures/LSE_logo.png
 ---
 
 
@@ -90,7 +87,9 @@ UPDATE:
 (15 minutes)
 
 
-# What is an API?
+
+
+## What is an API?
 
 
 ::: {.incremental}
@@ -106,7 +105,7 @@ UPDATE:
 
 
 
-# Why Use APIs for Data Collection?
+## Why Use APIs for Data Collection?
 ::: {.incremental}
 
 - **Data Access**: APIs provide a structured way to access data from various sources, such as social media platforms, government databases, and more.
@@ -122,11 +121,11 @@ UPDATE:
 
 
 
-# Types of APIs
+## Types of APIs
 
 ::: {.incremental}
 - **REST APIs** (Representational State Transfer)
-  - Use standard HTTP methods (GET, POST, PUT, DELETE)
+  - Use standard HTTP methods (`GET`, `POST`, `PUT`, `DELETE`)
   - Data is typically returned in JSON or XML format
 - **SOAP APIs** (Simple Object Access Protocol)
   - Use XML for message format and rely on other application layer protocols like HTTP or SMTP
@@ -146,10 +145,10 @@ UPDATE:
 
 
 
-# REST APIs 
+## REST APIs 
 
 ::: {.incremental}
-- **REST** APIs are the most common type of API used in web development
+- REST APIs are the most common type of API used in web development
 - They use standard HTTP methods to perform operations on resources
 - Resources are identified by URLs (Uniform Resource Locators)
 - Data is typically returned in JSON (JavaScript Object Notation) format, which is easy to read and parse
@@ -163,70 +162,33 @@ UPDATE:
 
 
 
-# REST API Example
 
 
 
-```python
-import requests
-# Define the API endpoint
-url = "https://api.example.com/data"
-# Send a GET request to the API
-response = requests.get(url)
-# Check if the request was successful
-if response.status_code == 200:
-    # Parse the JSON data
-    data = response.json()
-    print(data)
-else:
-    print(f"Error: {response.status_code}")
-```
-
-
-# REST API Output 
-```json
-{
-    "data": [
-        {
-            "id": 1,
-            "name": "Example Item 1",
-            "value": 100
-        },
-        {
-            "id": 2,
-            "name": "Example Item 2",
-            "value": 200
-        }
-    ],
-    "status": "success"
-}
-```
+# Module 2: Understanding REST APIs & Python's `requests`
 
 
 
-# Module 2: Understanding REST APIs & Python's requests
 
-
-
-# Key Concepts of REST APIs
+## Key Concepts of REST APIs
 ::: {.incremental}
 - **Resources**: The data or services provided by the API, identified by URLs
 - **HTTP Methods**: Standard methods used to interact with resources
-  - **GET**: Retrieve data from the server
-  - **POST**: Send data to the server to create a new resource
-  - **PUT**: Update an existing resource on the server
-  - **DELETE**: Remove a resource from the server
+  - `GET`: Retrieve data from the server
+  - `POST`: Send data to the server to create a new resource
+  - `PUT`: Update an existing resource on the server
+  - `DELETE`: Remove a resource from the server
 - **Status Codes**: Indicate the result of the API request
-  - **200**: OK (successful request)
-  - **201**: Created (resource successfully created)
-  - **204**: No Content (successful request with no content returned)
-  - **400**: Bad Request (invalid request)
-  - **404**: Not Found (resource not found)
-  - **500**: Internal Server Error (server error)
+  - `200`: OK (successful request)
+  - `201`: Created (resource successfully created)
+  - `204`: No Content (successful request with no content returned)
+  - `400`: Bad Request (invalid request)
+  - `404`: Not Found (resource not found)
+  - `500`: Internal Server Error (server error)
 :::
 
 
-# Request Parameters in REST APIs
+## Request Parameters in REST APIs
 ::: {.incremental}
 - **Query Parameters**: Used to filter or modify the data returned by the API
   - Added to the URL after a `?` and separated by `&`
@@ -238,5 +200,231 @@ else:
 - **Body**: Data sent with POST or PUT requests, typically in JSON format
   - Example: `data = {'name': 'Example Item', 'value': 100}`
 :::
+
+
+
+
+## Response Formats: JSON and XML
+
+::: {.incremental}
+- APIs return data in various formats, but **JSON** is the most common for modern REST APIs.
+  - **JSON (JavaScript Object Notation):**
+    - Lightweight, text-based, and human-readable.
+    - Uses key-value pairs (like Python dictionaries) and ordered lists (like Python lists).
+    - Easy for machines to parse and generate.
+    - Example seen earlier: `{"name": "Example Item", "value": 100}`
+- **XML (eXtensible Markup Language):**
+  - Another format, more verbose than JSON.
+  - Uses tags similar to HTML: `<item><name>Example</name><value>100</value></item>`
+  - You might encounter it with older APIs.
+- **Identifying the Format:**
+  - The `Content-Type` header in the API's HTTP response often tells you the format (e.g., `application/json`, `application/xml`).
+:::
+
+
+
+
+
+
+## Understanding API Responses
+
+::: {.incremental}
+- An API response is more than just the data you requested. Key components include:
+  - **Status Code:** Essential for knowing if your request was successful (e.g., `200 OK`, `404 Not Found`).
+  - **Headers:** Provide meta-information about the response.
+    - `Content-Type`: Specifies the format of the response body (e.g., `application/json`).
+    - `RateLimit-Remaining`: Some APIs tell you how many requests you have left in the current window.
+    - `Date`, `Content-Length`, etc.
+  - **Body:** The actual data (e.g., the JSON or XML payload).
+- Always inspect these parts, especially the status code and `Content-Type`, before trying to process the body.
+:::
+
+
+
+## Conceptual API Error Handling
+
+::: {.incremental}
+- Things can and will go wrong! Be prepared.
+- **Common Issues:**
+  - **Network Problems:** Your internet connection fails, or the API server is temporarily unreachable.
+  - **Client Errors (4xx Status Codes):**
+    - `400 Bad Request`: Your request was malformed.
+    - `401 Unauthorized` / `403 Forbidden`: You don't have permission.
+    - `404 Not Found`: The resource you asked for doesn't exist.
+    - `429 Too Many Requests`: You've hit a rate limit.
+  - **Server Errors (5xx Status Codes):** The API server had a problem.
+  - **Unexpected Data:** The API returns data in a structure you didn't anticipate.
+- **Defensive Programming:**
+  - *Always* check the status code.
+  - Anticipate potential issues and write code to handle them gracefully (e.g., retry mechanisms for temporary errors, clear messages for fatal ones).
+:::
+
+
+
+
+
+
+# Module 3: Interacting with APIs using Python's `requests` Library
+(~55 minutes)
+
+
+
+
+
+## Introducing Python's `requests` Library
+
+::: {.incremental}
+- The `requests` library is the de facto standard for making HTTP requests in Python. [cite: 3]
+- **Why `requests`?**
+  - "Requests is designed to be used by humans to interact with the language. This is not always the case with HTTP libraries." - *[Requests documentation](https://requests.readthedocs.io/en/latest/)*
+  - Simplifies complex tasks into simple method calls.
+  - Handles many HTTP complexities automatically.
+- **Installation (if not already installed, e.g., via Anaconda):** 
+  ```bash
+  pip install requests
+  ```
+:::
+
+
+
+
+## Making a Simple `GET` Request
+
+
+
+- The most common type of request is a `GET` request, used to retrieve data
+
+```python
+import requests # Import the library
+
+url = "[https://api.example.com/data](https://api.example.com/data)" 
+response = requests.get(url)
+
+# The 'response' object now contains the server's response
+print(f"Status Code: {response.status_code}")
+print(f"Requested URL: {response.url}")
+```
+
+- `response.url` is useful to see the final URL after any redirects, especially when using parameters. 
+
+
+
+
+
+
+## Passing Parameters in `GET` Requests
+
+
+
+
+* Often, you need to send parameters to filter, sort, or paginate data
+* The requests library makes this easy with the params argument.
+  + Example: To request https://api.example.com/search?query=python&limit=10
+
+```python
+import requests
+
+url = "[https://api.example.com/search](https://api.example.com/search)"
+payload = {
+    "query": "python",
+    "limit": 10
+}
+
+response = requests.get(url, params=payload)
+
+# requests automatically constructs the correct URL:
+print(f"Full URL Sent: {response.url}")
+# requests handles URL encoding (e.g., spaces become %20)
+```
+
+
+
+
+
+
+
+
+
+## Inspecting the Response Object
+
+::: {.incremental}
+* The `response` object from `requests.get()` holds valuable information:
+  + `response.status_code`: The HTTP status code (e.g., `200`, `404`). Always check this first!
+  + `response.headers`: A dictionary-like object of response headers.
+    - Example: `response.headers['Content-Type']`
+  + `response.text`: The raw textual content of the response body.
+  + `response.content`: The response body in bytes (useful for non-text responses like images).
+  + `response.json()`: If the Content-Type is JSON, this method conveniently parses it into a Python dictionary or list.
+
+:::
+
+
+
+
+
+
+## Working with JSON Responses
+
+- Most modern APIs return data in JSON format
+- `requests` can automatically parse JSON responses with the `.json()` method
+- calling `response.json()` on a non-JSON response will raise an error
+
+
+```python
+import requests
+
+url = "[https://jsonplaceholder.typicode.com/todos/1](https://jsonplaceholder.typicode.com/todos/1)" # A simple public JSON API
+response = requests.get(url)
+
+if response.status_code == 200:
+    # Check if content-type is actually JSON (good practice)
+    if 'application/json' in response.headers.get('Content-Type', ''):
+        data = response.json() # Parses JSON into a Python dictionary
+        # calling `response.json()` on a non-JSON response will raise an error
+        print(data)
+        print(f"Title: {data['title']}")
+    else:
+        print("Response was not JSON.")
+else:
+    print(f"Request failed with status code: {response.status_code}")
+```
+
+
+
+
+## Error Handling with `requests`
+
+**Always check the status code of the response to ensure your request was successful**
+
+
+::: {.incremental}
+* Check `response.status_code`:
+  + Manually check if `response.status_code` is what you expect (e.g., `200`).
+  + Implement conditional logic based on the code
+* Use `response.raise_for_status()`:
+  + This method will raise an `requests.exceptions.HTTPError` if the request returned an unsuccessful status code (4xx client error or 5xx server error).
+  + It's a quick way to halt execution if something went wrong.
+* Catch `requests.exceptions.RequestException`:
+  + This is a base class for exceptions `requests` can raise (e.g., network connection errors).
+:::
+
+
+## Example of Error Handling with `requests`
+
+
+```python
+import requests
+
+url = "[https://jsonplaceholder.typicode.com/nonexistent](https://jsonplaceholder.typicode.com/nonexistent)"
+try:
+    response = requests.get(url)
+    response.raise_for_status() # Raises HTTPError for 4xx/5xx
+    data = response.json()
+    print(data)
+except requests.exceptions.HTTPError as http_err:
+    print(f"HTTP error occurred: {http_err}") 
+except requests.exceptions.RequestException as err:
+    print(f"Other error occurred: {err}")
+```
 
 
