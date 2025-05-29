@@ -3,7 +3,7 @@ title: "Data Collection for Social Scientists: Leveraging Public APIs with Pytho
 subtitle: ''
 author: Zach Dickson, PhD
 date: "May 2025"
-institute: London School of Economics
+institute: Department of Methodology<br>London School of Economics
 bibliography: references.bib
 format:
   revealjs: 
@@ -86,7 +86,8 @@ UPDATE:
 
 
 
-# Module 1: Introduction to APIs (15 minutes)
+# Module 1: Introduction to APIs 
+(15 minutes)
 
 
 # What is an API?
@@ -225,7 +226,7 @@ else:
 :::
 
 
-# Request Parameters
+# Request Parameters in REST APIs
 ::: {.incremental}
 - **Query Parameters**: Used to filter or modify the data returned by the API
   - Added to the URL after a `?` and separated by `&`
