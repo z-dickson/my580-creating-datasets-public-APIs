@@ -428,3 +428,28 @@ except requests.exceptions.RequestException as err:
 ```
 
 
+
+
+
+# Module 4: Fetching Data from the UK House of Commons API
+(~30 minutes)
+
+
+## Overview of the UK House of Commons API
+- The UK House of Commons API provides access to various datasets related to parliamentary activities, including:
+  - Members of Parliament (MPs)
+  - Bills and legislation
+  - Votes and divisions
+  - Committees and their activities
+- The API is a RESTful service that returns data in JSON format
+- Documentation: [UK House of Commons API Documentation](https://api.parliament.uk/)
+- The API is designed to be used by developers, researchers, and the public to access parliamentary data programmatically
+
+
+## HOC API 
+
+![UK House of Commons API Overview](figures/UK_HOC_API.png){width=100%}
+
+
+
+## Python Notebook 
