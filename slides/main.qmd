@@ -452,4 +452,47 @@ except requests.exceptions.RequestException as err:
 
 
 
-## Python Notebook 
+## Python Notebook Task
+
+- Using the HOC API, answer one of the following questions: 
+  - What is the gender composition of MPs in the current parliament? 
+  - What are the safest five constituencies for the Labour Party in the current parliament (e.g. 2024 General Election)?
+  - How many statutory instruments have been issued in 2025?
+
+**Advanced Task:**
+
+- How many bills dealing with the economy have been passed (e.g. have became acts) since 2020?
+- What was the narrowest margin of victory in a vote in the 2019 General Election?
+
+
+
+
+
+# Module 5: Cleaning and Transforming Data for Analysis
+(~30 minutes)
+
+## Introduction to Data Cleaning and Transformation
+- Data cleaning and transformation are essential steps in preparing data for analysis
+- Raw data from APIs often contains inconsistencies, missing values, and irrelevant information
+- The goal is to transform the data into a clean, structured format that can be easily analyzed
+- Common data cleaning tasks include:
+  - Handling missing values
+  - Removing duplicates
+  - Standardizing formats (e.g., dates, strings)
+  - Filtering out irrelevant data
+  - Renaming columns for clarity
+
+
+## Python Notebook Task 
+
+
+- Using the data fetched from the UK House of Commons API, perform the following tasks:
+  - Clean the dataset by removing any duplicates and handling missing values
+  - Standardize the format of dates and other relevant fields
+  - Rename columns for clarity and consistency
+  - Filter the dataset to include only relevant information for your analysis
+- Document your cleaning and transformation steps in the notebook
+
+
+
+

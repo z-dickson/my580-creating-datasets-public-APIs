@@ -1,0 +1,651 @@
+result,isNotional,electorate,turnout,majority,electionTitle,electionDate,electionId,isGeneralElection,constituencyName,candidates,winningParty.id,winningParty.name,winningParty.abbreviation,winningParty.backgroundColour,winningParty.foregroundColour,winningParty.isLordsMainParty,winningParty.isLordsSpiritualParty,winningParty.governmentType,winningParty.isIndependentParty,constituency_id
+Lab Hold,False,72580,35755,10354,2024 General Election,2024-07-04T00:00:00,422,True,Aberafan Maesteg,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4496
+SNP Hold,False,75925,42095,1760,2024 General Election,2024-07-04T00:00:00,422,True,Aberdeen North,[],29,Scottish National Party,SNP,fff685,000000,False,False,,False,4449
+SNP Hold,False,77328,46345,3758,2024 General Election,2024-07-04T00:00:00,422,True,Aberdeen South,[],29,Scottish National Party,SNP,fff685,000000,False,False,,False,4450
+SNP Gain,False,70058,38188,942,2024 General Election,2024-07-04T00:00:00,422,True,Aberdeenshire North and Moray East,[],29,Scottish National Party,SNP,fff685,000000,False,False,,False,4451
+Lab Gain,False,70199,36666,7547,2024 General Election,2024-07-04T00:00:00,422,True,Airdrie and Shotts,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4452
+Lab Gain,False,78553,48544,5683,2024 General Election,2024-07-04T00:00:00,422,True,Aldershot,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3878
+Con Hold,False,70268,40912,4294,2024 General Election,2024-07-04T00:00:00,422,True,Aldridge-Brownhills,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,3879
+Lab Gain,False,70680,41201,6122,2024 General Election,2024-07-04T00:00:00,422,True,Alloa and Grangemouth,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4453
+Lab Gain,False,74025,51452,4174,2024 General Election,2024-07-04T00:00:00,422,True,Altrincham and Sale West,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3880
+Lab Hold,False,75790,43392,8794,2024 General Election,2024-07-04T00:00:00,422,True,Alyn and Deeside,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4497
+Lab Gain,False,71546,42531,3554,2024 General Election,2024-07-04T00:00:00,422,True,Amber Valley,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3881
+SNP Hold,False,76668,47348,4870,2024 General Election,2024-07-04T00:00:00,422,True,Angus and Perthshire Glens,[],29,Scottish National Party,SNP,fff685,000000,False,False,,False,4454
+SNP Hold,False,76149,44117,859,2024 General Election,2024-07-04T00:00:00,422,True,Arbroath and Broughty Ferry,[],29,Scottish National Party,SNP,fff685,000000,False,False,,False,4455
+SNP Hold,False,71756,44862,6232,2024 General Election,2024-07-04T00:00:00,422,True,"Argyll, Bute and South Lochaber",[],29,Scottish National Party,SNP,fff685,000000,False,False,,False,4456
+Con Hold,False,77969,54740,12134,2024 General Election,2024-07-04T00:00:00,422,True,Arundel and South Downs,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,3882
+RUK Gain,False,68929,39882,5508,2024 General Election,2024-07-04T00:00:00,422,True,Ashfield,[],1036,Reform UK,RUK,12b6cf,ffffff,False,False,,False,3883
+Lab Gain,False,76233,46975,1779,2024 General Election,2024-07-04T00:00:00,422,True,Ashford,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3884
+Lab Hold,False,71002,35461,6791,2024 General Election,2024-07-04T00:00:00,422,True,Ashton-under-Lyne,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3885
+Lab Gain,False,79169,49940,630,2024 General Election,2024-07-04T00:00:00,422,True,Aylesbury,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3886
+Lab Gain,False,70340,40936,4154,2024 General Election,2024-07-04T00:00:00,422,True,"Ayr, Carrick and Cumnock",[],15,Labour,Lab,d50000,ffffff,True,True,,False,4439
+Lab Gain,False,73250,48178,3256,2024 General Election,2024-07-04T00:00:00,422,True,Banbury,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3887
+Lab Gain,False,70527,41660,4896,2024 General Election,2024-07-04T00:00:00,422,True,Bangor Aberconwy,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4498
+Lab Hold,False,79822,36477,11054,2024 General Election,2024-07-04T00:00:00,422,True,Barking,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3888
+Lab Hold,False,78274,36894,7811,2024 General Election,2024-07-04T00:00:00,422,True,Barnsley North,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3889
+Lab Hold,False,75853,35082,4748,2024 General Election,2024-07-04T00:00:00,422,True,Barnsley South,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3890
+Lab Gain,False,74980,42221,5324,2024 General Election,2024-07-04T00:00:00,422,True,Barrow and Furness,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3891
+Con Hold,False,76873,42124,20,2024 General Election,2024-07-04T00:00:00,422,True,Basildon and Billericay,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,3892
+Lab Gain,False,78487,48989,6484,2024 General Election,2024-07-04T00:00:00,422,True,Basingstoke,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3893
+Lab Gain,False,78161,44878,5768,2024 General Election,2024-07-04T00:00:00,422,True,Bassetlaw,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3894
+LD Hold,False,69662,48130,11218,2024 General Election,2024-07-04T00:00:00,422,True,Bath,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,3895
+Lab Gain,False,72185,42065,8323,2024 General Election,2024-07-04T00:00:00,422,True,Bathgate and Linlithgow,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4457
+Lab Hold,False,72827,47082,12039,2024 General Election,2024-07-04T00:00:00,422,True,Battersea,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3896
+Con Hold,False,72751,47726,5455,2024 General Election,2024-07-04T00:00:00,422,True,Beaconsfield,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,3897
+Lab Hold,False,77198,52222,12905,2024 General Election,2024-07-04T00:00:00,422,True,Beckenham and Penge,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3898
+Lab Hold,False,72478,40659,9430,2024 General Election,2024-07-04T00:00:00,422,True,Bedford,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3899
+DUP Hold,False,72917,42706,2676,2024 General Election,2024-07-04T00:00:00,422,True,Belfast East,[],7,Democratic Unionist Party,DUP,d46a4c,FFFFFF,False,True,,False,4421
+SF Hold,False,74240,40452,5612,2024 General Election,2024-07-04T00:00:00,422,True,Belfast North,[],30,Sinn Féin,SF,02665f,FFFFFF,False,False,,False,4422
+SDLP Hold,False,74749,43491,12506,2024 General Election,2024-07-04T00:00:00,422,True,Belfast South and Mid Down,[],31,Social Democratic & Labour Party,SDLP,4ea268,000000,False,False,,False,4423
+SF Hold,False,75346,39743,15961,2024 General Election,2024-07-04T00:00:00,422,True,Belfast West,[],30,Sinn Féin,SF,02665f,FFFFFF,False,False,,False,4424
+Lab Hold,False,69482,37603,7787,2024 General Election,2024-07-04T00:00:00,422,True,Bermondsey and Old Southwark,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3900
+Con Hold,False,76438,46558,6599,2024 General Election,2024-07-04T00:00:00,422,True,"Berwickshire, Roxburgh and Selkirk",[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4440
+Lab Hold,False,81439,46647,1689,2024 General Election,2024-07-04T00:00:00,422,True,Bethnal Green and Stepney,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3901
+Con Hold,False,71994,44897,124,2024 General Election,2024-07-04T00:00:00,422,True,Beverley and Holderness,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,3902
+Con Hold,False,72198,47750,2657,2024 General Election,2024-07-04T00:00:00,422,True,Bexhill and Battle,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,3903
+Lab Gain,False,70297,43461,2114,2024 General Election,2024-07-04T00:00:00,422,True,Bexleyheath and Crayford,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3904
+LD Gain,False,74353,50219,4958,2024 General Election,2024-07-04T00:00:00,422,True,Bicester and Woodstock,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,3905
+Lab Hold,False,78091,43134,13798,2024 General Election,2024-07-04T00:00:00,422,True,Birkenhead,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3906
+Lab Hold,False,71787,37428,8368,2024 General Election,2024-07-04T00:00:00,422,True,Birmingham Edgbaston,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3907
+Lab Hold,False,77463,34137,7019,2024 General Election,2024-07-04T00:00:00,422,True,Birmingham Erdington,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3908
+Lab Hold,False,76936,41606,5656,2024 General Election,2024-07-04T00:00:00,422,True,Birmingham Hall Green and Moseley,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3909
+Lab Hold,False,77737,34136,1566,2024 General Election,2024-07-04T00:00:00,422,True,Birmingham Hodge Hill and Solihull North,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3910
+Lab Hold,False,83693,36579,3421,2024 General Election,2024-07-04T00:00:00,422,True,Birmingham Ladywood,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3911
+Lab Gain,False,74048,37652,5389,2024 General Election,2024-07-04T00:00:00,422,True,Birmingham Northfield,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3912
+Ind Gain,False,76350,37476,507,2024 General Election,2024-07-04T00:00:00,422,True,Birmingham Perry Barr,[],8,Independent,Ind,909090,FFFFFF,False,False,,True,3913
+Lab Hold,False,75678,38423,11537,2024 General Election,2024-07-04T00:00:00,422,True,Birmingham Selly Oak,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3914
+Lab Hold,False,73203,36144,693,2024 General Election,2024-07-04T00:00:00,422,True,Birmingham Yardley,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3915
+Lab Gain,False,70745,40427,6672,2024 General Election,2024-07-04T00:00:00,422,True,Bishop Auckland,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3916
+Ind Gain,False,73263,38887,132,2024 General Election,2024-07-04T00:00:00,422,True,Blackburn,[],8,Independent,Ind,909090,FFFFFF,False,False,,True,3917
+Lab Hold,False,72303,31340,10250,2024 General Election,2024-07-04T00:00:00,422,True,Blackley and Middleton South,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3918
+Lab Gain,False,73339,41810,4647,2024 General Election,2024-07-04T00:00:00,422,True,Blackpool North and Fleetwood,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3919
+Lab Gain,False,77460,35180,6848,2024 General Election,2024-07-04T00:00:00,422,True,Blackpool South,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3920
+Lab Hold,False,70153,29922,12183,2024 General Election,2024-07-04T00:00:00,422,True,Blaenau Gwent and Rhymney,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4499
+Lab Hold,False,70487,42216,11153,2024 General Election,2024-07-04T00:00:00,422,True,Blaydon and Consett,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3921
+Lab Hold,False,76595,40401,9173,2024 General Election,2024-07-04T00:00:00,422,True,Blyth and Ashington,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3922
+Con Hold,False,76854,47827,1765,2024 General Election,2024-07-04T00:00:00,422,True,Bognor Regis and Littlehampton,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,3923
+Lab Gain,False,77207,42434,6323,2024 General Election,2024-07-04T00:00:00,422,True,Bolsover,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3924
+Lab Gain,False,80011,43359,6653,2024 General Election,2024-07-04T00:00:00,422,True,Bolton North East,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3925
+Lab Hold,False,79622,36930,6743,2024 General Election,2024-07-04T00:00:00,422,True,Bolton South and Walkden,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3926
+Lab Gain,False,74933,44598,4945,2024 General Election,2024-07-04T00:00:00,422,True,Bolton West,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3927
+Lab Hold,False,73037,38880,21983,2024 General Election,2024-07-04T00:00:00,422,True,Bootle,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3928
+RUK Gain,False,75811,40455,2010,2024 General Election,2024-07-04T00:00:00,422,True,Boston and Skegness,[],1036,Reform UK,RUK,12b6cf,ffffff,False,False,,False,3929
+Lab Gain,False,72354,44910,5479,2024 General Election,2024-07-04T00:00:00,422,True,Bournemouth East,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3930
+Lab Gain,False,70259,39418,3224,2024 General Election,2024-07-04T00:00:00,422,True,Bournemouth West,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3931
+Lab Gain,False,71660,43837,784,2024 General Election,2024-07-04T00:00:00,422,True,Bracknell,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3932
+Lab Hold,False,75164,37216,6189,2024 General Election,2024-07-04T00:00:00,422,True,Bradford East,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3933
+Lab Hold,False,70999,33042,4392,2024 General Election,2024-07-04T00:00:00,422,True,Bradford South,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3934
+Lab Hold,False,77897,37081,707,2024 General Election,2024-07-04T00:00:00,422,True,Bradford West,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3935
+Con Hold,False,77673,49028,3670,2024 General Election,2024-07-04T00:00:00,422,True,Braintree,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,3936
+LD Gain,False,73114,46548,1472,2024 General Election,2024-07-04T00:00:00,422,True,"Brecon, Radnor and Cwm Tawe",[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4500
+Lab Hold,False,77547,37802,13047,2024 General Election,2024-07-04T00:00:00,422,True,Brent East,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3937
+Lab Hold,False,80027,41376,3793,2024 General Election,2024-07-04T00:00:00,422,True,Brent West,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3938
+Lab Hold,False,79423,45254,9824,2024 General Election,2024-07-04T00:00:00,422,True,Brentford and Isleworth,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3939
+Con Hold,False,75352,48332,5980,2024 General Election,2024-07-04T00:00:00,422,True,Brentwood and Ongar,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,3940
+Lab Gain,False,73168,41374,8595,2024 General Election,2024-07-04T00:00:00,422,True,Bridgend,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4501
+Con Hold,False,71571,40129,1349,2024 General Election,2024-07-04T00:00:00,422,True,Bridgwater,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,3941
+Con Hold,False,74438,42937,3125,2024 General Election,2024-07-04T00:00:00,422,True,Bridlington and The Wolds,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,3942
+Con Hold,False,73099,42508,3243,2024 General Election,2024-07-04T00:00:00,422,True,Brigg and Immingham,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,3943
+Lab Hold,False,68784,40686,9663,2024 General Election,2024-07-04T00:00:00,422,True,Brighton Kemptown and Peacehaven,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3944
+Green Hold,False,74786,52363,14290,2024 General Election,2024-07-04T00:00:00,422,True,Brighton Pavilion,[],44,Green Party,Green,78b82a,FFFFFF,False,False,,False,3945
+Green Gain,False,62735,43365,10407,2024 General Election,2024-07-04T00:00:00,422,True,Bristol Central,[],44,Green Party,Green,78b82a,FFFFFF,False,False,,False,3946
+Lab Hold,False,75917,46109,6606,2024 General Election,2024-07-04T00:00:00,422,True,Bristol East,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3947
+Lab Hold,False,70076,41989,11167,2024 General Election,2024-07-04T00:00:00,422,True,Bristol North East,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3948
+Lab Hold,False,74869,48464,15669,2024 General Election,2024-07-04T00:00:00,422,True,Bristol North West,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3949
+Lab Hold,False,75533,43403,7666,2024 General Election,2024-07-04T00:00:00,422,True,Bristol South,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3950
+Con Hold,False,76863,49513,719,2024 General Election,2024-07-04T00:00:00,422,True,Broadland and Fakenham,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,3951
+Con Hold,False,70713,46788,302,2024 General Election,2024-07-04T00:00:00,422,True,Bromley and Biggin Hill,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,3952
+Con Hold,False,76468,50405,3016,2024 General Election,2024-07-04T00:00:00,422,True,Bromsgrove,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,3953
+Con Hold,False,75210,42952,2858,2024 General Election,2024-07-04T00:00:00,422,True,Broxbourne,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,3954
+Lab Gain,False,70440,47838,8403,2024 General Election,2024-07-04T00:00:00,422,True,Broxtowe,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3955
+Lab Gain,False,74832,47641,2421,2024 General Election,2024-07-04T00:00:00,422,True,Buckingham and Bletchley,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3956
+Lab Gain,False,74954,39719,3420,2024 General Election,2024-07-04T00:00:00,422,True,Burnley,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3957
+Lab Gain,False,77994,45627,2266,2024 General Election,2024-07-04T00:00:00,422,True,Burton and Uttoxeter,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3958
+Lab Gain,False,77686,45520,6944,2024 General Election,2024-07-04T00:00:00,422,True,Bury North,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3959
+Lab Gain,False,75326,42214,9361,2024 General Election,2024-07-04T00:00:00,422,True,Bury South,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3960
+Lab Gain,False,78479,50893,1452,2024 General Election,2024-07-04T00:00:00,422,True,Bury St Edmunds and Stowmarket,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3961
+PC Gain,False,74005,45604,4535,2024 General Election,2024-07-04T00:00:00,422,True,Caerfyrddin,[],22,Plaid Cymru,PC,348837,ffffff,False,False,,False,4502
+Lab Hold,False,72648,38234,6419,2024 General Election,2024-07-04T00:00:00,422,True,Caerphilly,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4503
+LD Gain,False,74627,46048,10489,2024 General Election,2024-07-04T00:00:00,422,True,"Caithness, Sutherland and Easter Ross",[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4458
+Lab Gain,False,77364,49608,8991,2024 General Election,2024-07-04T00:00:00,422,True,Calder Valley,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3962
+Lab Gain,False,74342,47785,7806,2024 General Election,2024-07-04T00:00:00,422,True,Camborne and Redruth,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3963
+Lab Hold,False,70321,42100,11078,2024 General Election,2024-07-04T00:00:00,422,True,Cambridge,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3964
+Lab Gain,False,76974,42953,3125,2024 General Election,2024-07-04T00:00:00,422,True,Cannock Chase,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3965
+Lab Hold,False,71155,47231,8653,2024 General Election,2024-07-04T00:00:00,422,True,Canterbury,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3966
+Lab Hold,False,72876,39123,9097,2024 General Election,2024-07-04T00:00:00,422,True,Cardiff East,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4504
+Lab Hold,False,71460,47473,11207,2024 General Election,2024-07-04T00:00:00,422,True,Cardiff North,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4505
+Lab Hold,False,73060,39176,11767,2024 General Election,2024-07-04T00:00:00,422,True,Cardiff South and Penarth,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4506
+Lab Hold,False,75697,44757,7019,2024 General Election,2024-07-04T00:00:00,422,True,Cardiff West,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4507
+Lab Gain,False,77863,45979,5200,2024 General Election,2024-07-04T00:00:00,422,True,Carlisle,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3967
+LD Gain,False,74362,46670,7905,2024 General Election,2024-07-04T00:00:00,422,True,Carshalton and Wallington,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,3968
+Con Hold,False,71026,40633,3251,2024 General Election,2024-07-04T00:00:00,422,True,Castle Point,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,3969
+Lab Gain,False,69413,41419,6869,2024 General Election,2024-07-04T00:00:00,422,True,Central Ayrshire,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4441
+Con Hold,False,75385,53432,61,2024 General Election,2024-07-04T00:00:00,422,True,Central Devon,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,3970
+Con Hold,False,73046,46423,4290,2024 General Election,2024-07-04T00:00:00,422,True,Central Suffolk and North Ipswich,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,3971
+PC Hold,False,75690,46302,14789,2024 General Election,2024-07-04T00:00:00,422,True,Ceredigion Preseli,[],22,Plaid Cymru,PC,348837,ffffff,False,False,,False,4508
+Lab Gain,False,75109,40845,1998,2024 General Election,2024-07-04T00:00:00,422,True,Chatham and Aylesford,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3972
+LD Gain,False,74383,50731,12235,2024 General Election,2024-07-04T00:00:00,422,True,Cheadle,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,3973
+LD Gain,False,76970,50716,4753,2024 General Election,2024-07-04T00:00:00,422,True,Chelmsford,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,3974
+Lab Gain,False,78468,47116,152,2024 General Election,2024-07-04T00:00:00,422,True,Chelsea and Fulham,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3975
+LD Gain,False,76144,49542,7210,2024 General Election,2024-07-04T00:00:00,422,True,Cheltenham,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,3976
+LD Gain,False,74889,54455,5451,2024 General Election,2024-07-04T00:00:00,422,True,Chesham and Amersham,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,3977
+Lab Hold,False,70215,44694,11870,2024 General Election,2024-07-04T00:00:00,422,True,Chester North and Neston,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3978
+Con Hold,False,74284,52486,3057,2024 General Election,2024-07-04T00:00:00,422,True,Chester South and Eddisbury,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,3979
+Lab Hold,False,71645,41555,10820,2024 General Election,2024-07-04T00:00:00,422,True,Chesterfield,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3980
+LD Gain,False,78374,51947,12172,2024 General Election,2024-07-04T00:00:00,422,True,Chichester,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,3981
+Con Hold,False,74010,48512,4757,2024 General Election,2024-07-04T00:00:00,422,True,Chingford and Woodford Green,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,3982
+LD Gain,False,74107,49512,8138,2024 General Election,2024-07-04T00:00:00,422,True,Chippenham,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,3983
+Lab Gain,False,78038,50859,2914,2024 General Election,2024-07-04T00:00:00,422,True,Chipping Barnet,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3984
+Spk Hold,False,74801,33964,20575,2024 General Election,2024-07-04T00:00:00,422,True,Chorley,[],8,Independent,Ind,909090,FFFFFF,False,False,,True,3985
+Con Hold,False,71060,47335,7455,2024 General Election,2024-07-04T00:00:00,422,True,Christchurch,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,3986
+Lab Gain,False,73369,39215,2708,2024 General Election,2024-07-04T00:00:00,422,True,Cities of London and Westminster,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3987
+Lab Hold,False,70583,40627,11757,2024 General Election,2024-07-04T00:00:00,422,True,City of Durham,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3988
+RUK Gain,False,78245,45958,8405,2024 General Election,2024-07-04T00:00:00,422,True,Clacton,[],1036,Reform UK,RUK,12b6cf,ffffff,False,False,,False,3989
+Lab Hold,False,83114,42741,18005,2024 General Election,2024-07-04T00:00:00,422,True,Clapham and Brixton Hill,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3990
+Lab Gain,False,76637,47822,4622,2024 General Election,2024-07-04T00:00:00,422,True,Clwyd East,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4509
+Lab Gain,False,75027,41627,1196,2024 General Election,2024-07-04T00:00:00,422,True,Clwyd North,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4510
+Lab Gain,False,72667,38731,6344,2024 General Election,2024-07-04T00:00:00,422,True,Coatbridge and Bellshill,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4459
+Lab Gain,False,78662,44903,8250,2024 General Election,2024-07-04T00:00:00,422,True,Colchester,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3991
+Lab Gain,False,72638,46221,4963,2024 General Election,2024-07-04T00:00:00,422,True,Colne Valley,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3992
+Lab Gain,False,74243,50125,3387,2024 General Election,2024-07-04T00:00:00,422,True,Congleton,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3993
+Lab Gain,False,78770,49589,6331,2024 General Election,2024-07-04T00:00:00,422,True,Corby and East Northamptonshire,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3994
+Lab Hold,False,75773,37014,11623,2024 General Election,2024-07-04T00:00:00,422,True,Coventry East,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3995
+Lab Hold,False,75036,42030,11174,2024 General Election,2024-07-04T00:00:00,422,True,Coventry North West,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3996
+Lab Hold,False,76232,42731,10201,2024 General Election,2024-07-04T00:00:00,422,True,Coventry South,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3997
+Lab Gain,False,71845,40814,7248,2024 General Election,2024-07-04T00:00:00,422,True,Cowdenbeath and Kirkcaldy,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4460
+Lab Hold,False,76228,45394,12820,2024 General Election,2024-07-04T00:00:00,422,True,Cramlington and Killingworth,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3998
+Lab Gain,False,75569,45642,5235,2024 General Election,2024-07-04T00:00:00,422,True,Crawley,[],15,Labour,Lab,d50000,ffffff,True,True,,False,3999
+Lab Gain,False,78423,47197,9727,2024 General Election,2024-07-04T00:00:00,422,True,Crewe and Nantwich,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4000
+Lab Hold,False,76595,43779,6825,2024 General Election,2024-07-04T00:00:00,422,True,Croydon East,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4001
+Con Hold,False,74889,49378,2313,2024 General Election,2024-07-04T00:00:00,422,True,Croydon South,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4002
+Lab Hold,False,77891,38122,14226,2024 General Election,2024-07-04T00:00:00,422,True,Croydon West,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4003
+Lab Gain,False,70350,40976,4144,2024 General Election,2024-07-04T00:00:00,422,True,Cumbernauld and Kirkintilloch,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4461
+Lab Hold,False,76475,38867,7173,2024 General Election,2024-07-04T00:00:00,422,True,Dagenham and Rainham,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4004
+Lab Gain,False,70672,42378,2298,2024 General Election,2024-07-04T00:00:00,422,True,Darlington,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4005
+Lab Gain,False,75426,44488,1192,2024 General Election,2024-07-04T00:00:00,422,True,Dartford,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4006
+Con Hold,False,80879,53082,3012,2024 General Election,2024-07-04T00:00:00,422,True,Daventry,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4007
+Lab Gain,False,71879,40919,8915,2024 General Election,2024-07-04T00:00:00,422,True,Derby North,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4008
+Lab Hold,False,72944,37399,6002,2024 General Election,2024-07-04T00:00:00,422,True,Derby South,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4009
+Lab Gain,False,73324,51272,350,2024 General Election,2024-07-04T00:00:00,422,True,Derbyshire Dales,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4010
+Ind Gain,False,71685,38070,6934,2024 General Election,2024-07-04T00:00:00,422,True,Dewsbury and Batley,[],8,Independent,Ind,909090,FFFFFF,False,False,,True,4011
+LD Gain,False,80689,54733,6233,2024 General Election,2024-07-04T00:00:00,422,True,Didcot and Wantage,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4012
+Lab Hold,False,74678,37944,9551,2024 General Election,2024-07-04T00:00:00,422,True,Doncaster Central,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4013
+Lab Gain,False,70154,39132,2311,2024 General Election,2024-07-04T00:00:00,422,True,Doncaster East and the Isle of Axholme,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4014
+Lab Hold,False,69759,31002,9126,2024 General Election,2024-07-04T00:00:00,422,True,Doncaster North,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4015
+LD Gain,False,71645,49965,5391,2024 General Election,2024-07-04T00:00:00,422,True,Dorking and Horley,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4016
+Lab Gain,False,76406,47775,7585,2024 General Election,2024-07-04T00:00:00,422,True,Dover and Deal,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4017
+Con Hold,False,76624,49609,8995,2024 General Election,2024-07-04T00:00:00,422,True,Droitwich and Evesham,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4018
+Lab Gain,False,70151,35796,1900,2024 General Election,2024-07-04T00:00:00,422,True,Dudley,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4019
+Lab Hold,False,79894,45378,18789,2024 General Election,2024-07-04T00:00:00,422,True,Dulwich and West Norwood,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4020
+Con Hold,False,78541,45775,930,2024 General Election,2024-07-04T00:00:00,422,True,Dumfries and Galloway,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4462
+Con Hold,False,71900,44214,4242,2024 General Election,2024-07-04T00:00:00,422,True,"Dumfriesshire, Clydesdale and Tweeddale",[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4463
+SNP Hold,False,74221,38848,675,2024 General Election,2024-07-04T00:00:00,422,True,Dundee Central,[],29,Scottish National Party,SNP,fff685,000000,False,False,,False,4464
+Lab Gain,False,72824,44537,8241,2024 General Election,2024-07-04T00:00:00,422,True,Dunfermline and Dollar,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4465
+Lab Gain,False,76742,46045,667,2024 General Election,2024-07-04T00:00:00,422,True,Dunstable and Leighton Buzzard,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4021
+PC Hold,False,73040,40395,15876,2024 General Election,2024-07-04T00:00:00,422,True,Dwyfor Meirionnydd,[],22,Plaid Cymru,PC,348837,ffffff,False,False,,False,4511
+Lab Hold,False,78436,47769,13995,2024 General Election,2024-07-04T00:00:00,422,True,Ealing Central and Acton,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4022
+Lab Hold,False,74820,43232,12519,2024 General Election,2024-07-04T00:00:00,422,True,Ealing North,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4023
+Lab Hold,False,78669,46816,15793,2024 General Election,2024-07-04T00:00:00,422,True,Ealing Southall,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4024
+Lab Gain,False,73548,45914,848,2024 General Election,2024-07-04T00:00:00,422,True,Earley and Woodley,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4025
+Lab Hold,False,69395,34324,6542,2024 General Election,2024-07-04T00:00:00,422,True,Easington,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4026
+DUP Hold,False,73302,39675,1306,2024 General Election,2024-07-04T00:00:00,422,True,East Antrim,[],7,Democratic Unionist Party,DUP,d46a4c,FFFFFF,False,True,,False,4425
+Con Hold,False,75385,50393,8480,2024 General Election,2024-07-04T00:00:00,422,True,East Grinstead and Uckfield,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4027
+Lab Hold,False,79219,37892,12863,2024 General Election,2024-07-04T00:00:00,422,True,East Ham,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4028
+Con Hold,False,70659,50006,1275,2024 General Election,2024-07-04T00:00:00,422,True,East Hampshire,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4029
+Lab Gain,False,76414,46707,9057,2024 General Election,2024-07-04T00:00:00,422,True,East Kilbride and Strathaven,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4466
+DUP Hold,False,75707,41277,179,2024 General Election,2024-07-04T00:00:00,422,True,East Londonderry,[],7,Democratic Unionist Party,DUP,d46a4c,FFFFFF,False,True,,False,4426
+Lab Gain,False,74626,50227,8421,2024 General Election,2024-07-04T00:00:00,422,True,East Renfrewshire,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4442
+Con Hold,False,73307,49196,7450,2024 General Election,2024-07-04T00:00:00,422,True,East Surrey,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4030
+Lab Gain,False,74927,42713,6971,2024 General Election,2024-07-04T00:00:00,422,True,East Thanet,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4031
+Con Hold,False,74139,47193,4716,2024 General Election,2024-07-04T00:00:00,422,True,East Wiltshire,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4032
+Lab Gain,False,74738,49078,9519,2024 General Election,2024-07-04T00:00:00,422,True,East Worthing and Shoreham,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4033
+LD Gain,False,72590,45605,12204,2024 General Election,2024-07-04T00:00:00,422,True,Eastbourne,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4034
+LD Gain,False,69965,46420,1546,2024 General Election,2024-07-04T00:00:00,422,True,Eastleigh,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4035
+Lab Gain,False,76188,45575,3715,2024 General Election,2024-07-04T00:00:00,422,True,Edinburgh East and Musselburgh,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4467
+Lab Gain,False,78411,49475,7268,2024 General Election,2024-07-04T00:00:00,422,True,Edinburgh North and Leith,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4468
+Lab Hold,False,70838,46826,17251,2024 General Election,2024-07-04T00:00:00,422,True,Edinburgh South,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4469
+Lab Gain,False,73784,45664,6217,2024 General Election,2024-07-04T00:00:00,422,True,Edinburgh South West,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4470
+LD Hold,False,76490,52471,16470,2024 General Election,2024-07-04T00:00:00,422,True,Edinburgh West,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4471
+Lab Hold,False,75792,41045,12632,2024 General Election,2024-07-04T00:00:00,422,True,Edmonton and Winchmore Hill,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4036
+Lab Hold,False,70799,41964,16908,2024 General Election,2024-07-04T00:00:00,422,True,Ellesmere Port and Bromborough,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4037
+Lab Gain,False,73979,45566,8429,2024 General Election,2024-07-04T00:00:00,422,True,Eltham and Chislehurst,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4038
+LD Gain,False,79112,52369,495,2024 General Election,2024-07-04T00:00:00,422,True,Ely and East Cambridgeshire,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4039
+Lab Hold,False,78770,43492,12736,2024 General Election,2024-07-04T00:00:00,422,True,Enfield North,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4040
+Con Hold,False,72229,41753,5682,2024 General Election,2024-07-04T00:00:00,422,True,Epping Forest,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4041
+LD Gain,False,76513,54525,3686,2024 General Election,2024-07-04T00:00:00,422,True,Epsom and Ewell,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4042
+Lab Gain,False,71501,43006,5859,2024 General Election,2024-07-04T00:00:00,422,True,Erewash,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4043
+Lab Hold,False,78740,40379,16302,2024 General Election,2024-07-04T00:00:00,422,True,Erith and Thamesmead,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4044
+LD Gain,False,74042,53880,12003,2024 General Election,2024-07-04T00:00:00,422,True,Esher and Walton,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4045
+Lab Hold,False,67840,40195,11937,2024 General Election,2024-07-04T00:00:00,422,True,Exeter,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4046
+Con Hold,False,79983,51316,121,2024 General Election,2024-07-04T00:00:00,422,True,Exmouth and Exeter East,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4047
+Lab Gain,False,73584,42625,4996,2024 General Election,2024-07-04T00:00:00,422,True,Falkirk,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4472
+Con Hold,False,76947,50123,6079,2024 General Election,2024-07-04T00:00:00,422,True,Fareham and Waterlooville,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4048
+Con Hold,False,75920,53015,1349,2024 General Election,2024-07-04T00:00:00,422,True,Farnham and Bordon,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4049
+Con Hold,False,74301,46594,1469,2024 General Election,2024-07-04T00:00:00,422,True,Faversham and Mid Kent,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4050
+Lab Hold,False,76982,38887,7944,2024 General Election,2024-07-04T00:00:00,422,True,Feltham and Heston,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4051
+SF Hold,False,77828,51076,4571,2024 General Election,2024-07-04T00:00:00,422,True,Fermanagh and South Tyrone,[],30,Sinn Féin,SF,02665f,FFFFFF,False,False,,False,4427
+Lab Gain,False,77582,50367,10000,2024 General Election,2024-07-04T00:00:00,422,True,Filton and Bradley Stoke,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4052
+Lab Gain,False,77500,49289,4581,2024 General Election,2024-07-04T00:00:00,422,True,Finchley and Golders Green,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4053
+Lab Gain,False,70056,43246,3729,2024 General Election,2024-07-04T00:00:00,422,True,Folkestone and Hythe,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4054
+Lab Gain,False,72857,48091,278,2024 General Election,2024-07-04T00:00:00,422,True,Forest of Dean,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4055
+SDLP Hold,False,73496,38358,4166,2024 General Election,2024-07-04T00:00:00,422,True,Foyle,[],31,Social Democratic & Labour Party,SDLP,4ea268,000000,False,False,,False,4428
+LD Gain,False,71593,46716,5415,2024 General Election,2024-07-04T00:00:00,422,True,Frome and East Somerset,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4056
+Con Hold,False,77100,47960,561,2024 General Election,2024-07-04T00:00:00,422,True,Fylde,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4057
+Con Hold,False,75836,46685,3532,2024 General Election,2024-07-04T00:00:00,422,True,Gainsborough,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4058
+Lab Hold,False,69827,40217,9644,2024 General Election,2024-07-04T00:00:00,422,True,Gateshead Central and Whickham,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4059
+Lab Gain,False,77006,48722,11881,2024 General Election,2024-07-04T00:00:00,422,True,Gedling,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4060
+Lab Gain,False,73523,41140,3972,2024 General Election,2024-07-04T00:00:00,422,True,Gillingham and Rainham,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4061
+Lab Gain,False,68987,35445,3784,2024 General Election,2024-07-04T00:00:00,422,True,Glasgow East,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4473
+Lab Gain,False,67579,34739,3539,2024 General Election,2024-07-04T00:00:00,422,True,Glasgow North,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4474
+Lab Gain,False,72610,34091,4637,2024 General Election,2024-07-04T00:00:00,422,True,Glasgow North East,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4475
+Lab Gain,False,70219,42378,4154,2024 General Election,2024-07-04T00:00:00,422,True,Glasgow South,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4476
+Lab Gain,False,68871,35669,3285,2024 General Election,2024-07-04T00:00:00,422,True,Glasgow South West,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4477
+Lab Gain,False,69028,39902,6446,2024 General Election,2024-07-04T00:00:00,422,True,Glasgow West,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4478
+LD Gain,False,73268,47642,6611,2024 General Election,2024-07-04T00:00:00,422,True,Glastonbury and Somerton,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4062
+Lab Gain,False,70655,36139,2954,2024 General Election,2024-07-04T00:00:00,422,True,Glenrothes and Mid Fife,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4479
+Lab Gain,False,79475,45692,3431,2024 General Election,2024-07-04T00:00:00,422,True,Gloucester,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4063
+Con Hold,False,75816,54696,891,2024 General Election,2024-07-04T00:00:00,422,True,Godalming and Ash,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4064
+Con Hold,False,79925,49742,3572,2024 General Election,2024-07-04T00:00:00,422,True,Goole and Pocklington,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4065
+Con Hold,False,69605,43848,878,2024 General Election,2024-07-04T00:00:00,422,True,Gordon and Buchan,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4480
+Lab Hold,False,76524,36560,13413,2024 General Election,2024-07-04T00:00:00,422,True,Gorton and Denton,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4066
+Con Hold,False,73261,44277,6054,2024 General Election,2024-07-04T00:00:00,422,True,Gosport,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4067
+Lab Hold,False,76123,47229,11567,2024 General Election,2024-07-04T00:00:00,422,True,Gower,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4512
+Con Hold,False,73285,46125,4496,2024 General Election,2024-07-04T00:00:00,422,True,Grantham and Bourne,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4068
+Lab Gain,False,73094,43232,2712,2024 General Election,2024-07-04T00:00:00,422,True,Gravesham,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4069
+Lab Gain,False,76157,36619,4803,2024 General Election,2024-07-04T00:00:00,422,True,Great Grimsby and Cleethorpes,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4070
+RUK Gain,False,73317,40748,1426,2024 General Election,2024-07-04T00:00:00,422,True,Great Yarmouth,[],1036,Reform UK,RUK,12b6cf,ffffff,False,False,,False,4071
+Lab Hold,False,73073,42719,18366,2024 General Election,2024-07-04T00:00:00,422,True,Greenwich and Woolwich,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4072
+LD Gain,False,70662,48294,8429,2024 General Election,2024-07-04T00:00:00,422,True,Guildford,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4073
+Lab Hold,False,77812,40959,15080,2024 General Election,2024-07-04T00:00:00,422,True,Hackney North and Stoke Newington,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4074
+Lab Hold,False,78277,41701,14737,2024 General Election,2024-07-04T00:00:00,422,True,Hackney South and Shoreditch,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4075
+Lab Gain,False,68549,38578,4364,2024 General Election,2024-07-04T00:00:00,422,True,Halesowen,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4076
+Lab Hold,False,77516,40214,6269,2024 General Election,2024-07-04T00:00:00,422,True,Halifax,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4077
+Con Hold,False,79478,54004,4802,2024 General Election,2024-07-04T00:00:00,422,True,Hamble Valley,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4078
+Lab Gain,False,75480,42084,9472,2024 General Election,2024-07-04T00:00:00,422,True,Hamilton and Clyde Valley,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4481
+Lab Hold,False,75860,46021,15290,2024 General Election,2024-07-04T00:00:00,422,True,Hammersmith and Chiswick,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4079
+Lab Hold,False,80029,48550,14970,2024 General Election,2024-07-04T00:00:00,422,True,Hampstead and Highgate,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4080
+Con Hold,False,77075,50386,2378,2024 General Election,2024-07-04T00:00:00,422,True,"Harborough, Oadby and Wigston",[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4081
+Lab Gain,False,74683,43357,2504,2024 General Election,2024-07-04T00:00:00,422,True,Harlow,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4082
+LD Gain,False,72242,54336,10708,2024 General Election,2024-07-04T00:00:00,422,True,Harpenden and Berkhamsted,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4083
+LD Gain,False,77955,52064,8238,2024 General Election,2024-07-04T00:00:00,422,True,Harrogate and Knaresborough,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4084
+Con Hold,False,76513,47777,11680,2024 General Election,2024-07-04T00:00:00,422,True,Harrow East,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4085
+Lab Hold,False,79902,45241,6642,2024 General Election,2024-07-04T00:00:00,422,True,Harrow West,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4086
+Lab Hold,False,71437,35511,7698,2024 General Election,2024-07-04T00:00:00,422,True,Hartlepool,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4087
+Con Hold,False,76296,48043,1162,2024 General Election,2024-07-04T00:00:00,422,True,Harwich and North Essex,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4088
+Lab Gain,False,75939,45990,8653,2024 General Election,2024-07-04T00:00:00,422,True,Hastings and Rye,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4089
+Con Hold,False,72323,42186,92,2024 General Election,2024-07-04T00:00:00,422,True,Havant,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4090
+Lab Hold,False,74405,38315,12031,2024 General Election,2024-07-04T00:00:00,422,True,Hayes and Harlington,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4091
+LD Gain,False,72846,45998,6500,2024 General Election,2024-07-04T00:00:00,422,True,Hazel Grove,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4092
+Lab Gain,False,71035,44108,4857,2024 General Election,2024-07-04T00:00:00,422,True,Hemel Hempstead,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4093
+Lab Gain,False,74865,41256,15,2024 General Election,2024-07-04T00:00:00,422,True,Hendon,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4094
+LD Gain,False,73749,53157,6267,2024 General Election,2024-07-04T00:00:00,422,True,Henley and Thame,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4095
+Con Hold,False,72203,45572,1279,2024 General Election,2024-07-04T00:00:00,422,True,Hereford and South Herefordshire,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4096
+Con Hold,False,77869,48827,2499,2024 General Election,2024-07-04T00:00:00,422,True,Herne Bay and Sandwich,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4097
+Lab Gain,False,78915,54009,4748,2024 General Election,2024-07-04T00:00:00,422,True,Hertford and Stortford,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4098
+Con Hold,False,73465,48007,7992,2024 General Election,2024-07-04T00:00:00,422,True,Hertsmere,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4099
+Lab Gain,False,76431,51828,3713,2024 General Election,2024-07-04T00:00:00,422,True,Hexham,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4100
+Lab Hold,False,73328,37130,6082,2024 General Election,2024-07-04T00:00:00,422,True,Heywood and Middleton North,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4101
+Lab Gain,False,74385,49206,7908,2024 General Election,2024-07-04T00:00:00,422,True,High Peak,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4102
+Con Hold,False,76407,47799,5408,2024 General Election,2024-07-04T00:00:00,422,True,Hinckley and Bosworth,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4103
+Lab Gain,False,75877,52510,8109,2024 General Election,2024-07-04T00:00:00,422,True,Hitchin,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4104
+Lab Hold,False,71300,38602,11572,2024 General Election,2024-07-04T00:00:00,422,True,Holborn and St Pancras,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4105
+LD Gain,False,75537,50655,6700,2024 General Election,2024-07-04T00:00:00,422,True,Honiton and Sidmouth,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4106
+Con Hold,False,75438,46911,1943,2024 General Election,2024-07-04T00:00:00,422,True,Hornchurch and Upminster,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4107
+Lab Hold,False,69885,48642,21475,2024 General Election,2024-07-04T00:00:00,422,True,Hornsey and Friern Barnet,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4108
+LD Gain,False,79150,55499,2517,2024 General Election,2024-07-04T00:00:00,422,True,Horsham,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4109
+Lab Hold,False,78448,40032,7169,2024 General Election,2024-07-04T00:00:00,422,True,Houghton and Sunderland South,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4110
+Lab Hold,False,74063,51909,19791,2024 General Election,2024-07-04T00:00:00,422,True,Hove and Portslade,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4111
+Lab Hold,False,77795,40165,4533,2024 General Election,2024-07-04T00:00:00,422,True,Huddersfield,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4112
+Con Hold,False,79074,52040,1499,2024 General Election,2024-07-04T00:00:00,422,True,Huntingdon,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4113
+Lab Gain,False,67147,36374,1687,2024 General Election,2024-07-04T00:00:00,422,True,Hyndburn,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4114
+Lab Hold,False,78657,46888,528,2024 General Election,2024-07-04T00:00:00,422,True,Ilford North,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4115
+Lab Hold,False,80993,41170,6894,2024 General Election,2024-07-04T00:00:00,422,True,Ilford South,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4116
+Lab Gain,False,70126,40350,6371,2024 General Election,2024-07-04T00:00:00,422,True,Inverclyde and Renfrewshire West,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4482
+LD Gain,False,77927,48056,2160,2024 General Election,2024-07-04T00:00:00,422,True,"Inverness, Skye and West Ross-shire",[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4483
+Lab Gain,False,75396,44071,7403,2024 General Election,2024-07-04T00:00:00,422,True,Ipswich,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4117
+Con Hold,False,55855,34078,3323,2024 General Election,2024-07-04T00:00:00,422,True,Isle of Wight East,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4118
+Lab Gain,False,55406,34290,3177,2024 General Election,2024-07-04T00:00:00,422,True,Isle of Wight West,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4119
+Ind Gain,False,72852,49006,7247,2024 General Election,2024-07-04T00:00:00,422,True,Islington North,[],8,Independent,Ind,909090,FFFFFF,False,False,,True,4120
+Lab Hold,False,74122,42754,15455,2024 General Election,2024-07-04T00:00:00,422,True,Islington South and Finsbury,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4121
+Lab Hold,False,70272,36728,8964,2024 General Election,2024-07-04T00:00:00,422,True,Jarrow and Gateshead East,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4122
+Con Hold,False,74367,46186,1625,2024 General Election,2024-07-04T00:00:00,422,True,Keighley and Ilkley,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4123
+Con Hold,False,74923,53320,6574,2024 General Election,2024-07-04T00:00:00,422,True,Kenilworth and Southam,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4124
+Lab Hold,False,77306,41908,2903,2024 General Election,2024-07-04T00:00:00,422,True,Kensington and Bayswater,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4125
+Lab Gain,False,79360,50231,3820,2024 General Election,2024-07-04T00:00:00,422,True,Kettering,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4126
+Lab Gain,False,74628,42478,5119,2024 General Election,2024-07-04T00:00:00,422,True,Kilmarnock and Loudoun,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4444
+LD Hold,False,77353,50664,17235,2024 General Election,2024-07-04T00:00:00,422,True,Kingston and Surbiton,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4127
+Lab Hold,False,70650,29816,3920,2024 General Election,2024-07-04T00:00:00,422,True,Kingston upon Hull East,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4128
+Lab Hold,False,75280,38228,10679,2024 General Election,2024-07-04T00:00:00,422,True,Kingston upon Hull North and Cottingham,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4129
+Lab Gain,False,73252,38178,8979,2024 General Election,2024-07-04T00:00:00,422,True,Kingston upon Hull West and Haltemprice,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4130
+Con Hold,False,71645,45180,6303,2024 General Election,2024-07-04T00:00:00,422,True,Kingswinford and South Staffordshire,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4131
+Lab Hold,False,71964,36047,18319,2024 General Election,2024-07-04T00:00:00,422,True,Knowsley,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4132
+APNI Gain,False,82201,49081,2959,2024 General Election,2024-07-04T00:00:00,422,True,Lagan Valley,[],1,Alliance,APNI,cdaf2d,FFFFFF,False,False,,False,4429
+Lab Gain,False,74760,43008,9253,2024 General Election,2024-07-04T00:00:00,422,True,Lancaster and Wyre,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4133
+Lab Hold,False,70554,31595,8422,2024 General Election,2024-07-04T00:00:00,422,True,Leeds Central and Headingley,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4134
+Lab Hold,False,76207,39388,11265,2024 General Election,2024-07-04T00:00:00,422,True,Leeds East,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4135
+Lab Hold,False,70178,45167,16083,2024 General Election,2024-07-04T00:00:00,422,True,Leeds North East,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4136
+Lab Gain,False,71592,49777,11896,2024 General Election,2024-07-04T00:00:00,422,True,Leeds North West,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4137
+Lab Hold,False,75953,31678,11279,2024 General Election,2024-07-04T00:00:00,422,True,Leeds South,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4138
+Lab Gain,False,71854,40209,8423,2024 General Election,2024-07-04T00:00:00,422,True,Leeds South West and Morley,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4139
+Lab Hold,False,70069,38494,12392,2024 General Election,2024-07-04T00:00:00,422,True,Leeds West and Pudsey,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4140
+Con Gain,False,76560,46714,4426,2024 General Election,2024-07-04T00:00:00,422,True,Leicester East,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4141
+Ind Gain,False,70867,41837,979,2024 General Election,2024-07-04T00:00:00,422,True,Leicester South,[],8,Independent,Ind,909090,FFFFFF,False,False,,True,4142
+Lab Hold,False,74102,35397,8777,2024 General Election,2024-07-04T00:00:00,422,True,Leicester West,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4143
+Lab Gain,False,79978,41170,8881,2024 General Election,2024-07-04T00:00:00,422,True,Leigh and Atherton,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4144
+LD Gain,False,76166,53173,12624,2024 General Election,2024-07-04T00:00:00,422,True,Lewes,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4145
+Lab Hold,False,73380,40637,18073,2024 General Election,2024-07-04T00:00:00,422,True,Lewisham East,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4146
+Lab Hold,False,74205,44167,15782,2024 General Election,2024-07-04T00:00:00,422,True,Lewisham North,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4147
+Lab Hold,False,69386,46414,18397,2024 General Election,2024-07-04T00:00:00,422,True,Lewisham West and East Dulwich,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4148
+Lab Hold,False,71491,43732,13964,2024 General Election,2024-07-04T00:00:00,422,True,Leyton and Wanstead,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4149
+Lab Gain,False,76118,49104,810,2024 General Election,2024-07-04T00:00:00,422,True,Lichfield,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4150
+Lab Gain,False,72315,42160,8793,2024 General Election,2024-07-04T00:00:00,422,True,Lincoln,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4151
+Lab Hold,False,69282,41993,20104,2024 General Election,2024-07-04T00:00:00,422,True,Liverpool Garston,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4152
+Lab Hold,False,71380,32381,14793,2024 General Election,2024-07-04T00:00:00,422,True,Liverpool Riverside,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4153
+Lab Hold,False,69317,36886,20245,2024 General Election,2024-07-04T00:00:00,422,True,Liverpool Walton,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4154
+Lab Hold,False,70581,39815,16304,2024 General Election,2024-07-04T00:00:00,422,True,Liverpool Wavertree,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4155
+Lab Hold,False,69934,38006,20423,2024 General Election,2024-07-04T00:00:00,422,True,Liverpool West Derby,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4156
+Lab Gain,False,78043,44840,3528,2024 General Election,2024-07-04T00:00:00,422,True,Livingston,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4484
+Lab Hold,False,71538,40744,1504,2024 General Election,2024-07-04T00:00:00,422,True,Llanelli,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4513
+Lab Gain,False,75456,48102,13265,2024 General Election,2024-07-04T00:00:00,422,True,Lothian East,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4485
+Lab Gain,False,68961,42259,4960,2024 General Election,2024-07-04T00:00:00,422,True,Loughborough,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4157
+Con Hold,False,76880,46479,5506,2024 General Election,2024-07-04T00:00:00,422,True,Louth and Horncastle,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4158
+Lab Gain,False,74332,41824,2016,2024 General Election,2024-07-04T00:00:00,422,True,Lowestoft,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4159
+Lab Hold,False,74866,38745,7510,2024 General Election,2024-07-04T00:00:00,422,True,Luton North,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4160
+Lab Hold,False,77312,38382,6858,2024 General Election,2024-07-04T00:00:00,422,True,Luton South and South Bedfordshire,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4161
+Lab Gain,False,76416,52792,9120,2024 General Election,2024-07-04T00:00:00,422,True,Macclesfield,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4162
+LD Gain,False,75687,50329,2963,2024 General Election,2024-07-04T00:00:00,422,True,Maidenhead,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4163
+Con Hold,False,76449,46389,1674,2024 General Election,2024-07-04T00:00:00,422,True,Maidstone and Malling,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4164
+Lab Hold,False,76641,40263,5399,2024 General Election,2024-07-04T00:00:00,422,True,Makerfield,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4165
+Con Hold,False,78282,49841,6906,2024 General Election,2024-07-04T00:00:00,422,True,Maldon,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4166
+Lab Hold,False,85204,39725,13797,2024 General Election,2024-07-04T00:00:00,422,True,Manchester Central,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4167
+Lab Hold,False,72608,29033,8235,2024 General Election,2024-07-04T00:00:00,422,True,Manchester Rusholme,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4168
+Lab Hold,False,70555,41731,13982,2024 General Election,2024-07-04T00:00:00,422,True,Manchester Withington,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4169
+Lab Gain,False,74535,41087,3485,2024 General Election,2024-07-04T00:00:00,422,True,Mansfield,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4170
+LD Gain,False,73482,51203,2401,2024 General Election,2024-07-04T00:00:00,422,True,Melksham and Devizes,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4171
+Con Hold,False,74316,45986,5396,2024 General Election,2024-07-04T00:00:00,422,True,Melton and Syston,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4172
+Con Hold,False,73659,44035,4584,2024 General Election,2024-07-04T00:00:00,422,True,Meriden and Solihull East,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4173
+Lab Hold,False,74460,35215,7447,2024 General Election,2024-07-04T00:00:00,422,True,Merthyr Tydfil and Aberdare,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4514
+Lab Gain,False,79033,46629,1878,2024 General Election,2024-07-04T00:00:00,422,True,Mid and South Pembrokeshire,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4515
+Con Hold,False,75457,49621,1321,2024 General Election,2024-07-04T00:00:00,422,True,Mid Bedfordshire,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4174
+Con Hold,False,75622,53951,5872,2024 General Election,2024-07-04T00:00:00,422,True,Mid Buckinghamshire,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4175
+Lab Gain,False,70384,41509,8927,2024 General Election,2024-07-04T00:00:00,422,True,Mid Cheshire,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4176
+Lab Gain,False,69917,47543,1878,2024 General Election,2024-07-04T00:00:00,422,True,Mid Derbyshire,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4177
+LD Gain,False,75294,49514,1352,2024 General Election,2024-07-04T00:00:00,422,True,Mid Dorset and North Poole,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4178
+LD Gain,False,73603,52738,9673,2024 General Election,2024-07-04T00:00:00,422,True,Mid Dunbartonshire,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4486
+Con Hold,False,75924,48050,2201,2024 General Election,2024-07-04T00:00:00,422,True,Mid Leicestershire,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4179
+Con Hold,False,75238,45897,3054,2024 General Election,2024-07-04T00:00:00,422,True,Mid Norfolk,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4180
+LD Gain,False,75969,53328,6662,2024 General Election,2024-07-04T00:00:00,422,True,Mid Sussex,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4181
+SF Hold,False,74000,45445,14923,2024 General Election,2024-07-04T00:00:00,422,True,Mid Ulster,[],30,Sinn Féin,SF,02665f,FFFFFF,False,False,,False,4430
+Lab Hold,False,75123,34407,9192,2024 General Election,2024-07-04T00:00:00,422,True,Middlesbrough and Thornaby East,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4182
+Lab Gain,False,70331,38035,214,2024 General Election,2024-07-04T00:00:00,422,True,Middlesbrough South and East Cleveland,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4183
+Lab Gain,False,73554,44165,8167,2024 General Election,2024-07-04T00:00:00,422,True,Midlothian,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4445
+Lab Gain,False,81078,47729,7291,2024 General Election,2024-07-04T00:00:00,422,True,Milton Keynes Central,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4184
+Lab Gain,False,70709,45977,5430,2024 General Election,2024-07-04T00:00:00,422,True,Milton Keynes North,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4185
+Lab Hold,False,77282,45255,18761,2024 General Election,2024-07-04T00:00:00,422,True,Mitcham and Morden,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4186
+Lab Gain,False,74823,50844,3338,2024 General Election,2024-07-04T00:00:00,422,True,Monmouthshire,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4516
+Lab Gain,False,74039,43259,3815,2024 General Election,2024-07-04T00:00:00,422,True,Montgomeryshire and Glyndŵr,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4517
+SNP Hold,False,77243,46554,1001,2024 General Election,2024-07-04T00:00:00,422,True,"Moray West, Nairn and Strathspey",[],29,Scottish National Party,SNP,fff685,000000,False,False,,False,4487
+Lab Gain,False,76424,48059,5815,2024 General Election,2024-07-04T00:00:00,422,True,Morecambe and Lunesdale,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4187
+Lab Gain,False,71777,39026,7085,2024 General Election,2024-07-04T00:00:00,422,True,"Motherwell, Wishaw and Carluke",[],15,Labour,Lab,d50000,ffffff,True,True,,False,4488
+Lab Gain,False,21325,13528,3836,2024 General Election,2024-07-04T00:00:00,422,True,Na h-Eileanan an Iar,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4443
+Lab Hold,False,76291,40137,6627,2024 General Election,2024-07-04T00:00:00,422,True,Neath and Swansea East,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4518
+Con Hold,False,70618,45230,8495,2024 General Election,2024-07-04T00:00:00,422,True,New Forest East,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4188
+Con Hold,False,68644,46337,5600,2024 General Election,2024-07-04T00:00:00,422,True,New Forest West,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4189
+Con Hold,False,79783,53459,3572,2024 General Election,2024-07-04T00:00:00,422,True,Newark,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4190
+LD Gain,False,71982,48930,2377,2024 General Election,2024-07-04T00:00:00,422,True,Newbury,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4191
+Lab Hold,False,76822,41355,11060,2024 General Election,2024-07-04T00:00:00,422,True,Newcastle upon Tyne Central and West,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4192
+Lab Hold,False,76245,42321,12817,2024 General Election,2024-07-04T00:00:00,422,True,Newcastle upon Tyne East and Wallsend,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4193
+Lab Hold,False,74768,48617,17762,2024 General Election,2024-07-04T00:00:00,422,True,Newcastle upon Tyne North,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4194
+Lab Gain,False,67815,39618,5069,2024 General Election,2024-07-04T00:00:00,422,True,Newcastle-under-Lyme,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4195
+Lab Hold,False,76683,38531,9009,2024 General Election,2024-07-04T00:00:00,422,True,Newport East,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4519
+Lab Hold,False,75785,41951,8868,2024 General Election,2024-07-04T00:00:00,422,True,Newport West and Islwyn,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4520
+SF Hold,False,78244,45942,15493,2024 General Election,2024-07-04T00:00:00,422,True,Newry and Armagh,[],30,Sinn Féin,SF,02665f,FFFFFF,False,False,,False,4431
+LD Gain,False,73885,47992,2246,2024 General Election,2024-07-04T00:00:00,422,True,Newton Abbot,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4196
+Lab Gain,False,72215,39846,8839,2024 General Election,2024-07-04T00:00:00,422,True,Newton Aycliffe and Spennymoor,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4197
+Lab Hold,False,75645,36349,6662,2024 General Election,2024-07-04T00:00:00,422,True,Normanton and Hemsworth,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4198
+TUV Gain,False,74697,41185,450,2024 General Election,2024-07-04T00:00:00,422,True,North Antrim,[],158,Traditional Unionist Voice,TUV,0c3a6a,ffffff,False,False,,False,4432
+Lab Gain,False,72176,42262,3551,2024 General Election,2024-07-04T00:00:00,422,True,North Ayrshire and Arran,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4446
+Con Hold,False,78850,51561,5414,2024 General Election,2024-07-04T00:00:00,422,True,North Bedfordshire,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4199
+LD Gain,False,76741,51245,9957,2024 General Election,2024-07-04T00:00:00,422,True,North Cornwall,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4200
+Con Hold,False,73203,50229,3357,2024 General Election,2024-07-04T00:00:00,422,True,North Cotswolds,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4201
+LD Gain,False,79079,51417,6744,2024 General Election,2024-07-04T00:00:00,422,True,North Devon,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4202
+Con Hold,False,72690,49683,1589,2024 General Election,2024-07-04T00:00:00,422,True,North Dorset,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4203
+Ind Gain,False,73885,43296,7305,2024 General Election,2024-07-04T00:00:00,422,True,North Down,[],8,Independent,Ind,909090,FFFFFF,False,False,,True,4433
+Lab Hold,False,73226,41565,5873,2024 General Election,2024-07-04T00:00:00,422,True,North Durham,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4204
+Con Hold,False,71511,39176,7189,2024 General Election,2024-07-04T00:00:00,422,True,North East Cambridgeshire,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4205
+Lab Gain,False,73234,45866,1753,2024 General Election,2024-07-04T00:00:00,422,True,North East Derbyshire,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4206
+LD Gain,False,69762,42728,13479,2024 General Election,2024-07-04T00:00:00,422,True,North East Fife,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4489
+LD Gain,False,76923,55560,634,2024 General Election,2024-07-04T00:00:00,422,True,North East Hampshire,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4207
+Lab Gain,False,77697,52520,1923,2024 General Election,2024-07-04T00:00:00,422,True,North East Hertfordshire,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4208
+Lab Gain,False,73889,51125,5319,2024 General Election,2024-07-04T00:00:00,422,True,North East Somerset and Hanham,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4209
+Green Gain,False,72797,50362,5894,2024 General Election,2024-07-04T00:00:00,422,True,North Herefordshire,[],44,Green Party,Green,78b82a,FFFFFF,False,False,,False,4210
+LD Gain,False,71438,47043,2585,2024 General Election,2024-07-04T00:00:00,422,True,North Norfolk,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4211
+Lab Gain,False,74190,48843,5067,2024 General Election,2024-07-04T00:00:00,422,True,North Northumberland,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4212
+LD Gain,False,77573,49594,15311,2024 General Election,2024-07-04T00:00:00,422,True,North Shropshire,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4213
+Lab Gain,False,74426,53766,639,2024 General Election,2024-07-04T00:00:00,422,True,North Somerset,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4214
+Lab Gain,False,69752,40940,2198,2024 General Election,2024-07-04T00:00:00,422,True,North Warwickshire and Bedworth,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4215
+Lab Gain,False,75915,44424,39,2024 General Election,2024-07-04T00:00:00,422,True,North West Cambridgeshire,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4216
+Con Hold,False,79698,54386,2610,2024 General Election,2024-07-04T00:00:00,422,True,North West Essex,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4217
+Con Hold,False,78629,50823,3288,2024 General Election,2024-07-04T00:00:00,422,True,North West Hampshire,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4218
+Lab Gain,False,77750,48572,1012,2024 General Election,2024-07-04T00:00:00,422,True,North West Leicestershire,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4219
+Con Hold,False,74415,44566,4954,2024 General Election,2024-07-04T00:00:00,422,True,North West Norfolk,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4220
+Lab Gain,False,75575,41813,9014,2024 General Election,2024-07-04T00:00:00,422,True,Northampton North,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4221
+Lab Gain,False,70393,43904,4071,2024 General Election,2024-07-04T00:00:00,422,True,Northampton South,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4222
+Lab Gain,False,73717,45765,10850,2024 General Election,2024-07-04T00:00:00,422,True,Norwich North,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4223
+Lab Hold,False,76296,45095,13239,2024 General Election,2024-07-04T00:00:00,422,True,Norwich South,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4224
+Lab Hold,False,69395,36401,15162,2024 General Election,2024-07-04T00:00:00,422,True,Nottingham East,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4225
+Lab Hold,False,73768,35007,9427,2024 General Election,2024-07-04T00:00:00,422,True,Nottingham North and Kimberley,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4226
+Lab Hold,False,64255,32879,10294,2024 General Election,2024-07-04T00:00:00,422,True,Nottingham South,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4227
+Lab Gain,False,71843,41213,3479,2024 General Election,2024-07-04T00:00:00,422,True,Nuneaton,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4228
+Con Hold,False,73198,47633,3548,2024 General Election,2024-07-04T00:00:00,422,True,Old Bexley and Sidcup,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4229
+Lab Hold,False,73460,40065,6357,2024 General Election,2024-07-04T00:00:00,422,True,Oldham East and Saddleworth,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4230
+Lab Hold,False,76031,38573,4976,2024 General Election,2024-07-04T00:00:00,422,True,"Oldham West, Chadderton and Royton",[],15,Labour,Lab,d50000,ffffff,True,True,,False,4231
+LD Hold,False,34236,20688,7807,2024 General Election,2024-07-04T00:00:00,422,True,Orkney and Shetland,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4447
+Con Hold,False,71284,46073,5118,2024 General Election,2024-07-04T00:00:00,422,True,Orpington,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4232
+Lab Gain,False,72312,43873,4542,2024 General Election,2024-07-04T00:00:00,422,True,Ossett and Denby Dale,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4233
+Lab Hold,False,71845,39341,14465,2024 General Election,2024-07-04T00:00:00,422,True,Oxford East,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4234
+LD Hold,False,69851,45998,14894,2024 General Election,2024-07-04T00:00:00,422,True,Oxford West and Abingdon,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4235
+Lab Gain,False,71103,41519,6333,2024 General Election,2024-07-04T00:00:00,422,True,Paisley and Renfrewshire North,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4490
+Lab Gain,False,71574,41283,6527,2024 General Election,2024-07-04T00:00:00,422,True,Paisley and Renfrewshire South,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4491
+Lab Hold,False,72127,38797,15228,2024 General Election,2024-07-04T00:00:00,422,True,Peckham,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4236
+Lab Gain,False,78796,46754,902,2024 General Election,2024-07-04T00:00:00,422,True,Pendle and Clitheroe,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4237
+Lab Gain,False,70435,43965,8739,2024 General Election,2024-07-04T00:00:00,422,True,Penistone and Stocksbridge,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4238
+Lab Gain,False,77935,49281,5257,2024 General Election,2024-07-04T00:00:00,422,True,Penrith and Solway,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4239
+SNP Hold,False,77261,50077,4127,2024 General Election,2024-07-04T00:00:00,422,True,Perth and Kinross-shire,[],29,Scottish National Party,SNP,fff685,000000,False,False,,False,4492
+Lab Gain,False,73378,41872,118,2024 General Election,2024-07-04T00:00:00,422,True,Peterborough,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4240
+Lab Gain,False,74724,42856,5604,2024 General Election,2024-07-04T00:00:00,422,True,Plymouth Moor View,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4241
+Lab Hold,False,75313,42095,13328,2024 General Election,2024-07-04T00:00:00,422,True,Plymouth Sutton and Devonport,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4242
+Lab Hold,False,74618,35957,6630,2024 General Election,2024-07-04T00:00:00,422,True,"Pontefract, Castleford and Knottingley",[],15,Labour,Lab,d50000,ffffff,True,True,,False,4243
+Lab Hold,False,75951,39378,8402,2024 General Election,2024-07-04T00:00:00,422,True,Pontypridd,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4521
+Lab Gain,False,72509,44495,18,2024 General Election,2024-07-04T00:00:00,422,True,Poole,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4244
+Lab Hold,False,84116,43051,12560,2024 General Election,2024-07-04T00:00:00,422,True,Poplar and Limehouse,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4245
+Lab Gain,False,70446,41593,780,2024 General Election,2024-07-04T00:00:00,422,True,Portsmouth North,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4246
+Lab Hold,False,73711,38928,13155,2024 General Election,2024-07-04T00:00:00,422,True,Portsmouth South,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4247
+Lab Hold,False,77400,39993,5291,2024 General Election,2024-07-04T00:00:00,422,True,Preston,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4248
+Lab Hold,False,72686,49295,12488,2024 General Election,2024-07-04T00:00:00,422,True,Putney,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4249
+Lab Hold,False,75558,38343,14913,2024 General Election,2024-07-04T00:00:00,422,True,Queen's Park and Maida Vale,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4250
+Lab Hold,False,69133,33904,6908,2024 General Election,2024-07-04T00:00:00,422,True,Rawmarsh and Conisbrough,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4251
+Con Hold,False,76576,47978,5621,2024 General Election,2024-07-04T00:00:00,422,True,Rayleigh and Wickford,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4252
+Lab Hold,False,73600,45291,12637,2024 General Election,2024-07-04T00:00:00,422,True,Reading Central,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4253
+Lab Gain,False,68781,46551,1361,2024 General Election,2024-07-04T00:00:00,422,True,Reading West and Mid Berkshire,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4254
+Lab Gain,False,70241,38209,3323,2024 General Election,2024-07-04T00:00:00,422,True,Redcar,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4255
+Lab Gain,False,71042,42375,789,2024 General Election,2024-07-04T00:00:00,422,True,Redditch,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4256
+Con Hold,False,77102,53161,3187,2024 General Election,2024-07-04T00:00:00,422,True,Reigate,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4257
+Lab Hold,False,74493,35806,7790,2024 General Election,2024-07-04T00:00:00,422,True,Rhondda and Ogmore,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4522
+Lab Gain,False,80484,52023,856,2024 General Election,2024-07-04T00:00:00,422,True,Ribble Valley,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4258
+Con Hold,False,73886,48526,12185,2024 General Election,2024-07-04T00:00:00,422,True,Richmond and Northallerton,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4259
+LD Hold,False,74988,51517,17155,2024 General Election,2024-07-04T00:00:00,422,True,Richmond Park,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4260
+Lab Hold,False,72507,39688,1440,2024 General Election,2024-07-04T00:00:00,422,True,Rochdale,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4261
+Lab Gain,False,74257,42598,2930,2024 General Election,2024-07-04T00:00:00,422,True,Rochester and Strood,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4262
+Con Hold,False,72928,44047,1463,2024 General Election,2024-07-04T00:00:00,422,True,Romford,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4263
+Con Hold,False,71871,50027,2191,2024 General Election,2024-07-04T00:00:00,422,True,Romsey and Southampton North,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4264
+Lab Gain,False,74440,44618,5628,2024 General Election,2024-07-04T00:00:00,422,True,Rossendale and Darwen,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4265
+Lab Gain,False,69459,41608,998,2024 General Election,2024-07-04T00:00:00,422,True,Rother Valley,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4266
+Lab Hold,False,75929,36932,5490,2024 General Election,2024-07-04T00:00:00,422,True,Rotherham,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4267
+Lab Gain,False,74901,49004,4428,2024 General Election,2024-07-04T00:00:00,422,True,Rugby,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4268
+Con Hold,False,71683,47091,7581,2024 General Election,2024-07-04T00:00:00,422,True,"Ruislip, Northwood and Pinner",[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4269
+Lab Hold,False,70801,42235,14696,2024 General Election,2024-07-04T00:00:00,422,True,Runcorn and Helsby,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4270
+Con Hold,False,73610,48253,7627,2024 General Election,2024-07-04T00:00:00,422,True,Runnymede and Weybridge,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4271
+Lab Gain,False,79160,57744,7426,2024 General Election,2024-07-04T00:00:00,422,True,Rushcliffe,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4272
+Lab Gain,False,72674,42484,8767,2024 General Election,2024-07-04T00:00:00,422,True,Rutherglen,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4493
+Con Hold,False,71763,48577,10394,2024 General Election,2024-07-04T00:00:00,422,True,Rutland and Stamford,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4273
+Lab Hold,False,83633,39704,15101,2024 General Election,2024-07-04T00:00:00,422,True,Salford,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4274
+Con Hold,False,71802,50173,3807,2024 General Election,2024-07-04T00:00:00,422,True,Salisbury,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4275
+Lab Gain,False,74544,44221,5408,2024 General Election,2024-07-04T00:00:00,422,True,Scarborough and Whitby,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4276
+Lab Gain,False,73855,39051,3542,2024 General Election,2024-07-04T00:00:00,422,True,Scunthorpe,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4277
+Lab Hold,False,74284,47449,18282,2024 General Election,2024-07-04T00:00:00,422,True,Sefton Central,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4278
+Lab Gain,False,78043,49222,10195,2024 General Election,2024-07-04T00:00:00,422,True,Selby,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4279
+Con Hold,False,73708,49899,5440,2024 General Election,2024-07-04T00:00:00,422,True,Sevenoaks,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4280
+Lab Hold,False,70389,31612,11600,2024 General Election,2024-07-04T00:00:00,422,True,Sheffield Brightside and Hillsborough,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4281
+Lab Hold,False,60594,31803,8286,2024 General Election,2024-07-04T00:00:00,422,True,Sheffield Central,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4282
+Lab Hold,False,72900,51601,8189,2024 General Election,2024-07-04T00:00:00,422,True,Sheffield Hallam,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4283
+Lab Hold,False,73452,38446,15304,2024 General Election,2024-07-04T00:00:00,422,True,Sheffield Heeley,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4284
+Lab Hold,False,74156,35771,12458,2024 General Election,2024-07-04T00:00:00,422,True,Sheffield South East,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4285
+Lab Gain,False,78896,48660,5443,2024 General Election,2024-07-04T00:00:00,422,True,Sherwood Forest,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4286
+Lab Gain,False,74130,48303,8603,2024 General Election,2024-07-04T00:00:00,422,True,Shipley,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4287
+Lab Gain,False,76599,51560,11355,2024 General Election,2024-07-04T00:00:00,422,True,Shrewsbury,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4288
+Lab Gain,False,79067,40998,355,2024 General Election,2024-07-04T00:00:00,422,True,Sittingbourne and Sheppey,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4289
+Con Hold,False,79238,53450,1650,2024 General Election,2024-07-04T00:00:00,422,True,Skipton and Ripon,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4290
+Con Hold,False,75651,48565,4346,2024 General Election,2024-07-04T00:00:00,422,True,Sleaford and North Hykeham,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4291
+Lab Hold,False,81295,43278,3647,2024 General Election,2024-07-04T00:00:00,422,True,Slough,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4292
+Lab Hold,False,72863,35115,11188,2024 General Election,2024-07-04T00:00:00,422,True,Smethwick,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4293
+Con Hold,False,71816,46877,4620,2024 General Election,2024-07-04T00:00:00,422,True,Solihull West and Shirley,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4294
+UUP Gain,False,77058,42908,7512,2024 General Election,2024-07-04T00:00:00,422,True,South Antrim,[],38,Ulster Unionist Party,UUP,a1cdf0,FFFFFF,False,True,,False,4434
+RUK Gain,False,72673,39549,98,2024 General Election,2024-07-04T00:00:00,422,True,South Basildon and East Thurrock,[],1036,Reform UK,RUK,12b6cf,ffffff,False,False,,False,4295
+LD Gain,False,77327,54885,10641,2024 General Election,2024-07-04T00:00:00,422,True,South Cambridgeshire,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4296
+LD Gain,False,71971,52287,4973,2024 General Election,2024-07-04T00:00:00,422,True,South Cotswolds,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4297
+Lab Gain,False,73714,45737,4168,2024 General Election,2024-07-04T00:00:00,422,True,South Derbyshire,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4298
+LD Gain,False,72261,49004,7127,2024 General Election,2024-07-04T00:00:00,422,True,South Devon,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4299
+Lab Gain,False,75924,49037,1048,2024 General Election,2024-07-04T00:00:00,422,True,South Dorset,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4300
+SF Hold,False,76248,45243,9280,2024 General Election,2024-07-04T00:00:00,422,True,South Down,[],30,Sinn Féin,SF,02665f,FFFFFF,False,False,,False,4435
+Lab Gain,False,72654,49286,1911,2024 General Election,2024-07-04T00:00:00,422,True,South East Cornwall,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4301
+Con Hold,False,78473,45930,6856,2024 General Election,2024-07-04T00:00:00,422,True,South Holland and The Deepings,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4302
+Con Hold,False,78511,51359,5506,2024 General Election,2024-07-04T00:00:00,422,True,South Leicestershire,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4303
+Lab Gain,False,74006,49579,2826,2024 General Election,2024-07-04T00:00:00,422,True,South Norfolk,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4304
+Con Hold,False,78233,53697,3687,2024 General Election,2024-07-04T00:00:00,422,True,South Northamptonshire,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4305
+Lab Gain,False,73420,46720,6501,2024 General Election,2024-07-04T00:00:00,422,True,South Ribble,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4306
+Lab Hold,False,68366,36824,6653,2024 General Election,2024-07-04T00:00:00,422,True,South Shields,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4307
+Con Hold,False,76677,51653,1624,2024 General Election,2024-07-04T00:00:00,422,True,South Shropshire,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4308
+Con Hold,False,74619,48801,3047,2024 General Election,2024-07-04T00:00:00,422,True,South Suffolk,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4309
+Con Hold,False,77600,52242,2112,2024 General Election,2024-07-04T00:00:00,422,True,South West Devon,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4310
+Con Hold,False,71737,48254,4456,2024 General Election,2024-07-04T00:00:00,422,True,South West Hertfordshire,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4311
+Lab Gain,False,74724,44335,630,2024 General Election,2024-07-04T00:00:00,422,True,South West Norfolk,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4312
+Con Hold,False,73071,46168,3243,2024 General Election,2024-07-04T00:00:00,422,True,South West Wiltshire,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4313
+Lab Gain,False,68379,38053,6105,2024 General Election,2024-07-04T00:00:00,422,True,Southampton Itchen,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4314
+Lab Hold,False,65520,35805,9333,2024 General Election,2024-07-04T00:00:00,422,True,Southampton Test,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4315
+Lab Gain,False,70217,39656,4027,2024 General Election,2024-07-04T00:00:00,422,True,Southend East and Rochford,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4316
+Lab Gain,False,75154,46968,1949,2024 General Election,2024-07-04T00:00:00,422,True,Southend West and Leigh,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4317
+Lab Hold,False,77542,45671,15300,2024 General Election,2024-07-04T00:00:00,422,True,Southgate and Wood Green,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4318
+Lab Gain,False,73641,45059,5789,2024 General Election,2024-07-04T00:00:00,422,True,Southport,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4319
+Con Hold,False,73782,46166,1590,2024 General Election,2024-07-04T00:00:00,422,True,Spelthorne,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4320
+Lab Gain,False,72642,41058,6188,2024 General Election,2024-07-04T00:00:00,422,True,Spen Valley,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4321
+LD Hold,False,72739,51614,19834,2024 General Election,2024-07-04T00:00:00,422,True,St Albans,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4322
+Lab Gain,False,76076,46732,2470,2024 General Election,2024-07-04T00:00:00,422,True,St Austell and Newquay,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4323
+Lab Hold,False,75483,40474,12169,2024 General Election,2024-07-04T00:00:00,422,True,St Helens North,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4324
+Lab Hold,False,71569,38035,11945,2024 General Election,2024-07-04T00:00:00,422,True,St Helens South and Whiston,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4325
+LD Gain,False,69978,48106,13786,2024 General Election,2024-07-04T00:00:00,422,True,St Ives,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4326
+LD Gain,False,78115,52882,4621,2024 General Election,2024-07-04T00:00:00,422,True,St Neots and Mid Cambridgeshire,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4327
+Lab Gain,False,70608,46009,4595,2024 General Election,2024-07-04T00:00:00,422,True,Stafford,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4328
+Con Hold,False,69892,43302,1175,2024 General Election,2024-07-04T00:00:00,422,True,Staffordshire Moorlands,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4329
+Lab Hold,False,72265,37239,8539,2024 General Election,2024-07-04T00:00:00,422,True,Stalybridge and Hyde,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4330
+Lab Gain,False,70976,42715,6618,2024 General Election,2024-07-04T00:00:00,422,True,Stevenage,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4331
+Lab Gain,False,76284,49782,1394,2024 General Election,2024-07-04T00:00:00,422,True,Stirling and Strathallan,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4494
+Lab Hold,False,76632,43683,15270,2024 General Election,2024-07-04T00:00:00,422,True,Stockport,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4332
+Lab Hold,False,70242,37401,7939,2024 General Election,2024-07-04T00:00:00,422,True,Stockton North,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4333
+Con Hold,False,71868,48638,2139,2024 General Election,2024-07-04T00:00:00,422,True,Stockton West,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4334
+Lab Gain,False,73812,35289,6409,2024 General Election,2024-07-04T00:00:00,422,True,Stoke-on-Trent Central,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4335
+Lab Gain,False,69854,36150,5082,2024 General Election,2024-07-04T00:00:00,422,True,Stoke-on-Trent North,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4336
+Lab Gain,False,70002,40942,627,2024 General Election,2024-07-04T00:00:00,422,True,Stoke-on-Trent South,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4337
+Con Hold,False,71561,42770,5466,2024 General Election,2024-07-04T00:00:00,422,True,"Stone, Great Wyrley and Penkridge",[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4338
+Lab Gain,False,68311,39878,3073,2024 General Election,2024-07-04T00:00:00,422,True,Stourbridge,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4339
+DUP Hold,False,74525,38909,5131,2024 General Election,2024-07-04T00:00:00,422,True,Strangford,[],7,Democratic Unionist Party,DUP,d46a4c,FFFFFF,False,True,,False,4436
+Lab Hold,False,80735,43435,11634,2024 General Election,2024-07-04T00:00:00,422,True,Stratford and Bow,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4340
+LD Gain,False,75714,52959,7122,2024 General Election,2024-07-04T00:00:00,422,True,Stratford-on-Avon,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4341
+Lab Hold,False,82829,44553,15603,2024 General Election,2024-07-04T00:00:00,422,True,Streatham and Croydon North,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4342
+Lab Hold,False,75153,46002,16150,2024 General Election,2024-07-04T00:00:00,422,True,Stretford and Urmston,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4343
+Lab Gain,False,77905,55221,11388,2024 General Election,2024-07-04T00:00:00,422,True,Stroud,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4344
+Lab Gain,False,74522,49451,1070,2024 General Election,2024-07-04T00:00:00,422,True,Suffolk Coastal,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4345
+Lab Hold,False,76145,39957,6073,2024 General Election,2024-07-04T00:00:00,422,True,Sunderland Central,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4346
+LD Gain,False,71934,47788,5640,2024 General Election,2024-07-04T00:00:00,422,True,Surrey Heath,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4347
+Con Hold,False,72885,49175,6842,2024 General Election,2024-07-04T00:00:00,422,True,Sussex Weald,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4348
+LD Gain,False,72303,47606,3801,2024 General Election,2024-07-04T00:00:00,422,True,Sutton and Cheam,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4349
+Con Hold,False,74080,48333,2543,2024 General Election,2024-07-04T00:00:00,422,True,Sutton Coldfield,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4350
+Lab Hold,False,74236,35657,8515,2024 General Election,2024-07-04T00:00:00,422,True,Swansea West,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4523
+Lab Gain,False,73224,44165,4103,2024 General Election,2024-07-04T00:00:00,422,True,Swindon North,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4351
+Lab Gain,False,72575,44794,9606,2024 General Election,2024-07-04T00:00:00,422,True,Swindon South,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4352
+Lab Gain,False,75055,43788,1382,2024 General Election,2024-07-04T00:00:00,422,True,Tamworth,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4353
+Con Hold,False,75978,51909,1136,2024 General Election,2024-07-04T00:00:00,422,True,Tatton,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4354
+LD Gain,False,78680,50294,11939,2024 General Election,2024-07-04T00:00:00,422,True,Taunton and Wellington,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4355
+Lab Gain,False,73808,40730,8102,2024 General Election,2024-07-04T00:00:00,422,True,Telford,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4356
+LD Gain,False,73458,48539,6262,2024 General Election,2024-07-04T00:00:00,422,True,Tewkesbury,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4357
+Con Hold,False,78942,50020,883,2024 General Election,2024-07-04T00:00:00,422,True,The Wrekin,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4358
+Con Hold,False,78468,49797,7550,2024 General Election,2024-07-04T00:00:00,422,True,Thirsk and Malton,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4359
+LD Gain,False,78192,53367,3014,2024 General Election,2024-07-04T00:00:00,422,True,Thornbury and Yate,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4360
+Lab Gain,False,73392,37558,6474,2024 General Election,2024-07-04T00:00:00,422,True,Thurrock,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4361
+Lab Gain,False,74098,31850,3385,2024 General Election,2024-07-04T00:00:00,422,True,Tipton and Wednesbury,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4362
+LD Gain,False,72087,47491,3507,2024 General Election,2024-07-04T00:00:00,422,True,Tiverton and Minehead,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4363
+Con Hold,False,72799,50328,11166,2024 General Election,2024-07-04T00:00:00,422,True,Tonbridge,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4364
+Lab Hold,False,76168,52943,19487,2024 General Election,2024-07-04T00:00:00,422,True,Tooting,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4365
+LD Gain,False,76185,46115,5349,2024 General Election,2024-07-04T00:00:00,422,True,Torbay,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4366
+Lab Hold,False,71738,35705,7322,2024 General Election,2024-07-04T00:00:00,422,True,Torfaen,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4524
+Con Hold,False,74727,50820,3950,2024 General Election,2024-07-04T00:00:00,422,True,Torridge and Tavistock,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4367
+Lab Hold,False,75906,40148,15434,2024 General Election,2024-07-04T00:00:00,422,True,Tottenham,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4368
+Lab Gain,False,72982,50264,8151,2024 General Election,2024-07-04T00:00:00,422,True,Truro and Falmouth,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4369
+LD Gain,False,78738,54250,8687,2024 General Election,2024-07-04T00:00:00,422,True,Tunbridge Wells,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4370
+LD Hold,False,74980,53635,21457,2024 General Election,2024-07-04T00:00:00,422,True,Twickenham,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4371
+Lab Hold,False,73194,48418,15455,2024 General Election,2024-07-04T00:00:00,422,True,Tynemouth,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4372
+DUP Hold,False,81249,47358,7406,2024 General Election,2024-07-04T00:00:00,422,True,Upper Bann,[],7,Democratic Unionist Party,DUP,d46a4c,FFFFFF,False,True,,False,4437
+Lab Gain,False,74745,45914,587,2024 General Election,2024-07-04T00:00:00,422,True,Uxbridge and South Ruislip,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4373
+Lab Gain,False,74465,45826,4216,2024 General Election,2024-07-04T00:00:00,422,True,Vale of Glamorgan,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4525
+Lab Hold,False,77527,37536,15112,2024 General Election,2024-07-04T00:00:00,422,True,Vauxhall and Camberwell Green,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4374
+Lab Gain,False,75067,40656,9346,2024 General Election,2024-07-04T00:00:00,422,True,Wakefield and Rothwell,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4375
+Lab Hold,False,74082,42746,17996,2024 General Election,2024-07-04T00:00:00,422,True,Wallasey,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4376
+Lab Gain,False,74951,37191,4914,2024 General Election,2024-07-04T00:00:00,422,True,Walsall and Bloxwich,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4377
+Lab Hold,False,74474,45668,17996,2024 General Election,2024-07-04T00:00:00,422,True,Walthamstow,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4378
+Lab Hold,False,70601,40041,9190,2024 General Election,2024-07-04T00:00:00,422,True,Warrington North,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4379
+Lab Hold,False,78394,49672,11340,2024 General Election,2024-07-04T00:00:00,422,True,Warrington South,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4380
+Lab Hold,False,76294,49198,12412,2024 General Election,2024-07-04T00:00:00,422,True,Warwick and Leamington,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4381
+Lab Hold,False,70972,37021,6913,2024 General Election,2024-07-04T00:00:00,422,True,Washington and Gateshead South,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4382
+Lab Gain,False,73100,44455,4723,2024 General Election,2024-07-04T00:00:00,422,True,Watford,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4383
+Green Gain,False,73056,49072,5594,2024 General Election,2024-07-04T00:00:00,422,True,Waveney Valley,[],44,Green Party,Green,78b82a,FFFFFF,False,False,,False,4384
+Con Hold,False,75987,50712,8422,2024 General Election,2024-07-04T00:00:00,422,True,Weald of Kent,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4385
+Lab Gain,False,77542,43985,5486,2024 General Election,2024-07-04T00:00:00,422,True,Wellingborough and Rushden,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4386
+LD Gain,False,73538,50368,11121,2024 General Election,2024-07-04T00:00:00,422,True,Wells and Mendip Hills,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4387
+Lab Gain,False,75259,48455,3799,2024 General Election,2024-07-04T00:00:00,422,True,Welwyn Hatfield,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4388
+Con Hold,False,72994,48958,3441,2024 General Election,2024-07-04T00:00:00,422,True,West Aberdeenshire and Kincardine,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4448
+Lab Gain,False,74025,36481,9554,2024 General Election,2024-07-04T00:00:00,422,True,West Bromwich,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4389
+LD Gain,False,75998,52605,7789,2024 General Election,2024-07-04T00:00:00,422,True,West Dorset,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4390
+Lab Gain,False,69074,39584,6010,2024 General Election,2024-07-04T00:00:00,422,True,West Dunbartonshire,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4495
+Lab Hold,False,78964,36348,9254,2024 General Election,2024-07-04T00:00:00,422,True,West Ham and Beckton,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4391
+Lab Hold,False,74081,44200,13625,2024 General Election,2024-07-04T00:00:00,422,True,West Lancashire,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4392
+Con Hold,False,77145,46161,3247,2024 General Election,2024-07-04T00:00:00,422,True,West Suffolk,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4393
+SF Hold,False,74269,43695,15917,2024 General Election,2024-07-04T00:00:00,422,True,West Tyrone,[],30,Sinn Féin,SF,02665f,FFFFFF,False,False,,False,4438
+Con Hold,False,79246,54687,6547,2024 General Election,2024-07-04T00:00:00,422,True,West Worcestershire,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4394
+LD Gain,False,72029,49533,21472,2024 General Election,2024-07-04T00:00:00,422,True,Westmorland and Lonsdale,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4395
+Lab Gain,False,71396,42390,4409,2024 General Election,2024-07-04T00:00:00,422,True,Weston-super-Mare,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4396
+Con Hold,False,74314,52259,4846,2024 General Election,2024-07-04T00:00:00,422,True,Wetherby and Easingwold,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4397
+Lab Gain,False,73198,41840,13286,2024 General Election,2024-07-04T00:00:00,422,True,Whitehaven and Workington,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4398
+Lab Hold,False,70161,38116,16425,2024 General Election,2024-07-04T00:00:00,422,True,Widnes and Halewood,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4399
+Lab Hold,False,77538,40899,9549,2024 General Election,2024-07-04T00:00:00,422,True,Wigan,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4400
+LD Gain,False,76334,54985,12610,2024 General Election,2024-07-04T00:00:00,422,True,Wimbledon,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4401
+LD Gain,False,78289,57076,13821,2024 General Election,2024-07-04T00:00:00,422,True,Winchester,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4402
+Con Hold,False,73334,45246,6457,2024 General Election,2024-07-04T00:00:00,422,True,Windsor,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4403
+Lab Hold,False,72838,49951,9998,2024 General Election,2024-07-04T00:00:00,422,True,Wirral West,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4404
+Con Hold,False,78991,50603,5145,2024 General Election,2024-07-04T00:00:00,422,True,Witham,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4405
+LD Gain,False,75448,50584,4339,2024 General Election,2024-07-04T00:00:00,422,True,Witney,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4406
+LD Gain,False,72969,48145,11246,2024 General Election,2024-07-04T00:00:00,422,True,Woking,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4407
+LD Gain,False,75082,53999,8345,2024 General Election,2024-07-04T00:00:00,422,True,Wokingham,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4408
+Lab Gain,False,70715,33289,5422,2024 General Election,2024-07-04T00:00:00,422,True,Wolverhampton North East,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4409
+Lab Hold,False,77473,33382,9188,2024 General Election,2024-07-04T00:00:00,422,True,Wolverhampton South East,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4410
+Lab Gain,False,77851,43657,7868,2024 General Election,2024-07-04T00:00:00,422,True,Wolverhampton West,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4411
+Lab Gain,False,74931,46036,7116,2024 General Election,2024-07-04T00:00:00,422,True,Worcester,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4412
+Lab Hold,False,78643,42543,11091,2024 General Election,2024-07-04T00:00:00,422,True,Worsley and Eccles,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4413
+Lab Gain,False,77039,50997,3949,2024 General Election,2024-07-04T00:00:00,422,True,Worthing West,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4414
+Lab Gain,False,70269,40373,5948,2024 General Election,2024-07-04T00:00:00,422,True,Wrexham,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4526
+Lab Gain,False,73415,44637,4591,2024 General Election,2024-07-04T00:00:00,422,True,Wycombe,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4415
+Con Hold,False,77329,45158,812,2024 General Election,2024-07-04T00:00:00,422,True,Wyre Forest,[],4,Conservative,Con,0063ba,ffffff,True,False,,False,4416
+Lab Hold,False,77767,39132,14610,2024 General Election,2024-07-04T00:00:00,422,True,Wythenshawe and Sale East,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4417
+LD Gain,False,79918,48952,12268,2024 General Election,2024-07-04T00:00:00,422,True,Yeovil,[],17,Liberal Democrat,LD,faa01a,FFFFFF,True,False,,False,4418
+PC Gain,False,53141,32628,637,2024 General Election,2024-07-04T00:00:00,422,True,Ynys Môn,[],22,Plaid Cymru,PC,348837,ffffff,False,False,,False,4527
+Lab Hold,False,79557,43323,19154,2024 General Election,2024-07-04T00:00:00,422,True,York Central,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4419
+Lab Gain,False,76228,51106,9391,2024 General Election,2024-07-04T00:00:00,422,True,York Outer,[],15,Labour,Lab,d50000,ffffff,True,True,,False,4420
