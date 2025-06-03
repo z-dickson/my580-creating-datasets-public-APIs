@@ -54,14 +54,11 @@ title-slide-attributes:
 # Overview of the Workshop 
 
 
-UPDATE: 
-
 - What is an API?
 - Why use APIs for data collection?
 - How to use Python's requests library to interact with APIs
 - Fetching data from the UK House of Commons API
 - Cleaning and transforming data for analysis
-- Evaluating dataset design for social science research
 
 
 
@@ -432,7 +429,11 @@ except requests.exceptions.RequestException as err:
 
 
 # Module 4: Fetching Data from the UK House of Commons API
-(~30 minutes)
+(~50 minutes)
+
+
+
+
 
 
 ## Overview of the UK House of Commons API
@@ -452,6 +453,11 @@ except requests.exceptions.RequestException as err:
 
 
 
+## Notebook activity
+- In this module, we will use the UK House of Commons API to fetch data related to parliamentary activities
+- We'll use the `UK_HOC_API.ipynb` notebook to guide us through the process
+
+
 ## Python Notebook Task
 
 - Using the HOC API, answer one of the following questions: 
@@ -468,31 +474,46 @@ except requests.exceptions.RequestException as err:
 
 
 
-# Module 5: Cleaning and Transforming Data for Analysis
-(~30 minutes)
-
-## Introduction to Data Cleaning and Transformation
-- Data cleaning and transformation are essential steps in preparing data for analysis
-- Raw data from APIs often contains inconsistencies, missing values, and irrelevant information
-- The goal is to transform the data into a clean, structured format that can be easily analyzed
-- Common data cleaning tasks include:
-  - Handling missing values
-  - Removing duplicates
-  - Standardizing formats (e.g., dates, strings)
-  - Filtering out irrelevant data
-  - Renaming columns for clarity
-
-
-## Python Notebook Task 
-
-
-- Using the data fetched from the UK House of Commons API, perform the following tasks:
-  - Clean the dataset by removing any duplicates and handling missing values
-  - Standardize the format of dates and other relevant fields
-  - Rename columns for clarity and consistency
-  - Filter the dataset to include only relevant information for your analysis
-- Document your cleaning and transformation steps in the notebook
+# Module 5: Putting It All Together: APIs for Data Collection
+(~50 minutes)
 
 
 
 
+
+
+## Data Collection Workflow with APIs
+
+- **Objective:** Create an electoral map that visualizes turnout for every constituency in the UK 
+
+
+
+
+
+![Electoral Map](figures/uk_electoral_map.png){width=50% position=center}
+
+
+## Process Overview
+
+
+::: {.callout-tip}
+
+**Let's start by thinking about what we want our final product to look like and how we can achieve it using the UK House of Commons API.**
+
+:::
+
+::: {.incremental}
+
+1. Use the `Members` API to get a dataset of each constituency ID in the UK for 2024
+2. Use constituency IDs to find the electoral results for each constituency in 2024 using the `Members` API
+   - This will include the number of votes for each party and the turnout percentage
+3. Use the constituency IDs to find the geometry (e.g. boundaries) of each constituency to plot the results on a map
+4. Clean the data and prepare it for visualization
+5. Create a map of the results using the `geopandas` library 
+
+:::
+
+
+## Python Notebook Task
+
+We'll use the `electoral_map_2024.ipynb` notebook to guide us through the process of creating an electoral map
