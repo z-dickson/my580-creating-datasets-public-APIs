@@ -1448,11 +1448,39 @@ Zach Dickson, PhD
 <span id="cb5-10"><a href></a>    <span class="bu">print</span>(<span class="ss">f&quot;HTTP error occurred: </span><span class="sc">{</span>http_err<span class="sc">}</span><span class="ss">&quot;</span>) </span>
 <span id="cb5-11"><a href></a><span class="cf">except</span> requests.exceptions.RequestException <span class="im">as</span> err:</span>
 <span id="cb5-12"><a href></a>    <span class="bu">print</span>(<span class="ss">f&quot;Other error occurred: </span><span class="sc">{</span>err<span class="sc">}</span><span class="ss">&quot;</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+<section id="handling-json-data-in-python" class="slide level2">
+<h2>Handling JSON Data in Python</h2>
+<ul>
+<li>JSON data is often returned as a dictionary or list in Python</li>
+<li>You can access elements using standard Python syntax</li>
+</ul>
+<div class="sourceCode" id="cb6"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb6-1"><a href></a><span class="co"># Example JSON data</span></span>
+<span id="cb6-2"><a href></a>data <span class="op">=</span> {</span>
+<span id="cb6-3"><a href></a>    <span class="st">&quot;userId&quot;</span>: <span class="dv">1</span>,</span>
+<span id="cb6-4"><a href></a>    <span class="st">&quot;id&quot;</span>: <span class="dv">1</span>,</span>
+<span id="cb6-5"><a href></a>    <span class="st">&quot;title&quot;</span>: <span class="st">&quot;delectus aut autem&quot;</span>,</span>
+<span id="cb6-6"><a href></a>    <span class="st">&quot;completed&quot;</span>: <span class="va">False</span></span>
+<span id="cb6-7"><a href></a>}</span>
+<span id="cb6-8"><a href></a><span class="co"># Accessing elements in the JSON data</span></span>
+<span id="cb6-9"><a href></a><span class="bu">print</span>(data[<span class="st">&quot;userId&quot;</span>])  <span class="co"># Output: 1</span></span>
+<span id="cb6-10"><a href></a><span class="bu">print</span>(data[<span class="st">&quot;title&quot;</span>])   <span class="co"># Output: delectus aut autem</span></span>
+<span id="cb6-11"><a href></a><span class="bu">print</span>(data[<span class="st">&quot;completed&quot;</span>])  <span class="co"># Output: False</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+<section id="summary-of-key-points" class="slide level2">
+<h2>Summary of Key Points</h2>
+<ul>
+<li>APIs allow applications to communicate and share data</li>
+<li>REST APIs use standard HTTP methods to interact with resources</li>
+<li>Python’s <code>requests</code> library simplifies making HTTP requests and handling responses</li>
+<li>Always check the status code and handle errors gracefully</li>
+<li>JSON is a common format for API responses, and <code>requests</code> can easily parse it into Python data structures</li>
+</ul>
 </section></section>
 <section>
 <section id="module-4-fetching-data-from-the-uk-house-of-commons-api" class="title-slide slide level1 center">
 <h1>Module 4: Fetching Data from the UK House of Commons API</h1>
-<p>(~50 minutes)</p>
+
 </section>
 <section id="overview-of-the-uk-house-of-commons-api" class="slide level2">
 <h2>Overview of the UK House of Commons API</h2>
@@ -1480,6 +1508,34 @@ Zach Dickson, PhD
 <li>We’ll use the <code>UK_HOC_API.ipynb</code> notebook to guide us through the process</li>
 </ul>
 </section>
+<section id="example-use-case-questions-asked-during-pmqs" class="slide level2">
+<h2>Example Use Case: Questions Asked During PMQs</h2>
+<div title="Research Project Idea">
+<div class="callout callout-tip callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Research Project Idea</strong></p>
+</div>
+<div class="callout-content">
+<p>Suppose we want to understand which questions are asked in the House of Commons during PMQs. We want to create a dataset of all the questions asked during PMQs, with each row representing a question and columns for the date, MP who asked the question, and the content of the question.</p>
+</div>
+</div>
+</div>
+</div>
+<ul>
+<li>The Prime Minister’s Questions (PMQs) is a weekly session in the House of Commons where MPs can ask questions to the Prime Minister</li>
+<li>The UK House of Commons API provides an endpoint to retrieve questions asked during PMQs</li>
+<li>We can use this endpoint to create a dataset of all questions asked during PMQs, including:
+<ul>
+<li>Date of the question</li>
+<li>MP who asked the question</li>
+<li>Content of the question</li>
+</ul></li>
+</ul>
+</section>
 <section id="python-notebook-task" class="slide level2">
 <h2>Python Notebook Task</h2>
 <ul>
@@ -1499,7 +1555,7 @@ Zach Dickson, PhD
 <section>
 <section id="module-5-putting-it-all-together-apis-for-data-collection" class="title-slide slide level1 center">
 <h1>Module 5: Putting It All Together: APIs for Data Collection</h1>
-<p>(~50 minutes)</p>
+
 </section>
 <section id="data-collection-workflow-with-apis" class="slide level2">
 <h2>Data Collection Workflow with APIs</h2>

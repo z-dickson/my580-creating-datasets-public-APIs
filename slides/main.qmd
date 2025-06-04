@@ -425,11 +425,39 @@ except requests.exceptions.RequestException as err:
 ```
 
 
+## Handling JSON Data in Python
+- JSON data is often returned as a dictionary or list in Python
+- You can access elements using standard Python syntax
+
+
+```python
+# Example JSON data
+data = {
+    "userId": 1,
+    "id": 1,
+    "title": "delectus aut autem",
+    "completed": False
+}
+# Accessing elements in the JSON data
+print(data["userId"])  # Output: 1
+print(data["title"])   # Output: delectus aut autem
+print(data["completed"])  # Output: False
+```
+
+
+## Summary of Key Points
+- APIs allow applications to communicate and share data
+- REST APIs use standard HTTP methods to interact with resources
+- Python's `requests` library simplifies making HTTP requests and handling responses
+- Always check the status code and handle errors gracefully
+- JSON is a common format for API responses, and `requests` can easily parse it into Python data structures
+
+
+
 
 
 
 # Module 4: Fetching Data from the UK House of Commons API
-(~50 minutes)
 
 
 
@@ -458,6 +486,26 @@ except requests.exceptions.RequestException as err:
 - We'll use the `UK_HOC_API.ipynb` notebook to guide us through the process
 
 
+## Example Use Case: Questions Asked During PMQs
+
+
+::: {.callout-tip title="Research Project Idea"}
+Suppose we want to understand which questions are asked in the House of Commons during PMQs. We want to create a dataset of all the questions asked during PMQs, with each row representing a question and columns for the date, MP who asked the question, and the content of the question.
+:::
+
+
+- The Prime Minister's Questions (PMQs) is a weekly session in the House of Commons where MPs can ask questions to the Prime Minister
+- The UK House of Commons API provides an endpoint to retrieve questions asked during PMQs
+- We can use this endpoint to create a dataset of all questions asked during PMQs, including:
+  - Date of the question
+  - MP who asked the question
+  - Content of the question
+
+
+
+
+
+
 ## Python Notebook Task
 
 - Using the HOC API, answer one of the following questions: 
@@ -475,7 +523,6 @@ except requests.exceptions.RequestException as err:
 
 
 # Module 5: Putting It All Together: APIs for Data Collection
-(~50 minutes)
 
 
 
